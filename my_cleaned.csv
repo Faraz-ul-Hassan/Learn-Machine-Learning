@@ -1,0 +1,1104 @@
+,Breed,Gender,Neutered_or_spayed,Fur_colour_dominant,Fur_pattern,Eye_colour,Allowed_outdoor,Preferred_food,Country,Age_in_years,Body_length,Weight,Owner_play_time_minutes,Sleep_time_hours,Latitude,Longitude
+0,Angora,female,False,white,solid,blue,FALSE,wet,France,0.25,19.0,2.0,46.0,16.0,43.296482,5.36978
+1,Angora,male,False,white,solid,blue,FALSE,wet,France,0.33,19.0,2.5,48.0,16.0,43.61166,3.87771
+2,Angora,male,False,what does it mean dominant?,solid,green,I never allow my kitty outside!!!!!,wet,France,0.5,20.0,2.8,41.0,11.0,44.837789,-0.57918
+3,Ankora,male,False,white,dirty,blue,FALSE,wet,France,0.5,21.0,3.0,24.0,8.0,43.61166,3.87771
+4,Angora,male,True,red/cream,tabby,green,FALSE,wet,france,0.5,21.0,3.0,51.0,10.0,48.864716,2.349014
+5,Ragdoll,female,False,white,solid,amber,FALSE,a lot of food,France,0.5,21.0,3.0,30.0,28.0,43.61166,3.87771
+6,Angora,male,True,white,solid,amber,FALSE,wet,France,0.58,22.0,3.0,47.0,9.0,47.218371,-1.553621
+7,Angora,male,True,red/cream,solid,cute,FALSE,wet,France,4.460752487562499,23.0,3.0,55.0,11.0,47.218371,-1.553621
+8,Angora,female,True,black,solid,blue,FALSE,wet,France,4.460752487562499,25.0,3.0,20.0,12.0,43.296482,5.36978
+9,Angora,female,True,white,solid,blue,FALSE,wet,France,4.460752487562499,25.0,320.0,33.0,17.0,44.837789,-0.57918
+10,Ragdoll,female,False,black,solid,green,FALSE,wet,France,0.67,26.0,3.0,39.0,18.0,43.296482,5.36978
+11,Angora,male,True,white,solid,amber,FALSE,wet,France,0.67,26.0,3.3,23.17652495378928,15.898305084745763,43.61166,3.87771
+12,Angora,male,True,white,solid,amber,FALSE,wet,France,0.75,27.0,3.3,23.17652495378928,15.898305084745763,48.864716,2.349014
+13,Angora,male,True,white,solid,blue,FALSE,wet,France,-1.083333333,28.0,3.2,35.0,14.0,45.76342,4.834277
+14,Angora,male,True,red/cream,tabby,blue,FALSE,dry,France,-1.333333333,30.0,3.5,38.0,20.0,48.864716,2.349014
+15,Ragdoll,male,False,white,solid,green,FALSE,dry,France,0.83,31.0,3.4,56.0,17.0,48.864716,2.349014
+16,Ragdoll,male,True,seal,solid,green,FALSE,wet,USA,4.460752487562499,43.903435468895076,5.740900649953575,48.0,14.0,47.218371,-1.553621
+17,Ragdoll,female,True,white,solid,blue,FALSE,wet,USA,0.92,31.0,3.9,55.0,32.0,44.837789,-0.57918
+18,Angora,male,True,white,solid,blue,TRUE,wet,USA,-1.0,31.0,3.5,42.0,14.0,43.296482,5.36978
+19,Angora,male,True,white,solid,amber,FALSE,wet,USA,1.0,35.0,3.9,41.0,17.0,45.76342,4.834277
+20,Angora,male,True,white,solid,blue,FALSE,dry,France,4.33,25.0,4.0,36.0,14.0,44.837789,-0.57918
+21,angora,female,True,white,solid,blue,TRUE,wet,France,1.17,34.0,3.8,23.0,17.0,48.864716,2.349014
+22,Ankora,male,True,white,solid,amber,FALSE,wet,France,3.0,38.0,5.0,16.0,14.0,43.296482,5.36978
+23,Ankora,female,True,white,solid,amber,FALSE,wet,France,1.17,25.0,3.0,19.0,17.0,45.76342,4.834277
+24,Angora,male,True,white,dirty,cute,FALSE,wet,La France!!!!,4.0,39.0,4.6,33.0,14.0,45.76342,4.834277
+25,Angora,male,True,black,solid,green,TRUE,dry,France,5.83,37.0,4.6,9.0,16.0,48.864716,2.349014
+26,Angora,female,True,white,solid,blue,FALSE,wet,France,1.25,26.0,3.4,25.0,15.0,43.296482,5.36978
+27,Angora,male,True,white,solid,blue,TRUE,wet,France,5.33,44.0,4.6,20.0,16.0,44.837789,-0.57918
+28,Angora,male,True,red/cream,tabby,blue,FALSE,wet,France,4.460752487562499,40.0,3.8,35.0,17.0,45.76342,4.834277
+29,Angora,male,False,black,solid,green,FALSE,dry,France,4.460752487562499,41.0,5.0,31.0,14.0,47.218371,-1.553621
+30,Angora,male,False,white,solid,blue,FALSE,wet,France,4.460752487562499,40.0,3.6,27.0,14.0,43.296482,5.36978
+31,Angora,female,True,white,solid,blue,FALSE,dry,France,1.58,33.0,3.5,18.0,18.0,48.864716,2.349014
+32,Angora,female,True,white,solid,blue,TRUE,wet,france,1.58,33.0,3.2,12.0,19.0,48.864716,2.349014
+33,Angora,male,True,white,solid,blue,FALSE,wet,France,4.5,37.0,5.6,9.0,14.0,47.218371,-1.553621
+34,Angora,male,False,black,solid,blue,TRUE,dry,France,4.75,41.0,4.2,19.0,14.0,44.837789,-0.57918
+35,Ragdoll,female,True,white,solid,blue,FALSE,wet,France,1.67,35.0,5.0,10.0,15.0,45.76342,4.834277
+36,Ragdoll,male,True,white,solid,blue,FALSE,wet,France,1.67,28.0,3.1,39.0,18.0,43.296482,5.36978
+37,Ragdoll,male,False,black,solid,blue,FALSE,wet,France,1.67,36.0,3.9,35.0,19.0,43.61166,3.87771
+38,Ragdoll,female,True,white,solid,amber,FALSE,wet,France,1.75,28.0,4.9,10.0,17.0,48.864716,2.349014
+39,Angora,male,True,black,solid,blue,FALSE,dry,France,1.75,34.0,4.7,23.0,19.0,45.76342,4.834277
+40,Angora,male,False,white,solid,blue,TRUE,wet,France,1.75,34.0,4.0,25.0,20.0,44.837789,-0.57918
+41,Angora,male,True,black,solid,green,FALSE,wet,france,1.83,22.0,2.9,40.0,20.0,44.837789,-0.57918
+42,Angora,male,False,white,solid,blue,FALSE,dry,France,1.83,41.0,4.7,45.0,20.0,43.61166,3.87771
+43,Ankora,male,True,black,bicolor,amber,TRUE,wet,France,1.83,24.0,4.3,30.0,16.0,48.864716,2.349014
+44,Ankora,male,False,white,solid,amber,FALSE,dry,France,1.92,35.0,2.7,21.0,18.0,43.61166,3.87771
+45,Ankora,male,True,white,solid,amber,FALSE,wet,France,1.92,33.0,3.4,14.0,16.0,44.837789,-0.57918
+46,Angora,female,False,black,solid,green,FALSE,wet,France,2.0,32.0,2.4,11.0,14.0,47.218371,-1.553621
+47,Angora,female,True,white,solid,blue,FALSE,wet,France,2.0,35.0,3.8,15.0,14.0,48.864716,2.349014
+48,Angora,male,True,white,solid,blue,TRUE,dry,France,2.0,38.0,3.7,23.0,16.0,44.837789,-0.57918
+49,Angora,female,False,white,solid,amber,FALSE,wet,France,2.08,33.0,2.9,36.0,14.0,48.864716,2.349014
+50,Angora,male,False,black,solid,cute,FALSE,wet,France,2.08,41.0,4.1,11.0,16.0,48.864716,2.349014
+51,Angora,female,True,white,solid,blue,FALSE,wet,France,2.17,35.0,2.6,28.0,17.0,48.864716,2.349014
+52,Angora,male,False,red/cream,tabby,blue,FALSE,wet,France,2.25,38.0,4.6,11.0,14.0,44.837789,-0.57918
+53,Angora,female,False,black,solid,green,FALSE,wet,France,2.25,34.0,3.7,10.0,14.0,43.61166,3.87771
+54,Angora,male,True,white,solid,amber,FALSE,wet,France,2.25,25.0,3.1,39.0,16.0,47.218371,-1.553621
+55,Angora,male,True,white,solid,amber,FALSE,wet,Vive la France!,2.25,38.0,5.3,39.0,14.0,48.864716,2.349014
+56,Angora,female,False,red/cream,solid,blue,FALSE,dry,France,2.33,36.0,4.0,19.0,14.0,47.218371,-1.553621
+57,Angora,female,False,white,dirty,blue,FALSE,wet,France,2.33,36.0,2.4,19.0,16.0,45.76342,4.834277
+58,Angora,male,True,white,solid,blue,FALSE,wet,France,2.33,39.0,3.9,34.0,14.0,45.76342,4.834277
+59,Ragdoll,female,True,white,solid,amber,FALSE,dry,France,2.33,36.0,3.3,32.0,17.0,45.76342,4.834277
+60,Ragdoll,female,True,black,solid,green,TRUE,dry,France,2.33,39.0,2.7,33.0,14.0,43.296482,5.36978
+61,Ragdoll,male,False,white,solid,blue,FALSE,wet,France,2.42,39.0,4.3,37.0,14.0,48.864716,2.349014
+62,Ragdoll,female,True,white,solid,green,FALSE,wet,France,2.5,35.0,3.6,18.0,14.0,44.837789,-0.57918
+63,Ragdoll,male,False,white,solid,amber,FALSE,wet,France,2.5,37.0,4.7,44.0,16.0,44.837789,-0.57918
+64,Ragdoll,male,True,red/cream,solid,blue,FALSE,wet,France,2.58,40.0,4.5,38.0,14.0,48.864716,2.349014
+65,Ragdoll,male,True,seal,solid,blue,FALSE,wet,France,2.58,43.903435468895076,5.740900649953575,30.0,16.0,44.837789,-0.57918
+66,Angora,female,True,red/cream,solid,blue,FALSE,wet,France,2.67,38.0,3.9,37.0,14.0,44.837789,-0.57918
+67,Angora,male,False,black,solid,blue,FALSE,dry,France,2.67,40.0,4.0,30.0,14.0,43.296482,5.36978
+68,Angora,female,True,black,solid,green,TRUE,dry,France,2.67,34.0,3.9,21.0,14.0,45.76342,4.834277
+69,Angora,female,True,white,solid,green,TRUE,wet,France,2.92,34.0,4.1,28.0,14.0,43.296482,5.36978
+70,Angora,female,True,white,solid,amber,FALSE,wet,France,2.92,32.0,2.5,33.0,14.0,48.864716,2.349014
+71,Angora,male,True,white,solid,amber,FALSE,wet,USA,2.92,41.0,3.8,21.0,14.0,40.71427,-74.00597
+72,Angora,male,False,white,solid,blue,FALSE,wet,USA,2.92,39.0,4.1,28.0,14.0,40.71427,-74.00597
+73,Angora,male,True,white,solid,green,FALSE,dry,USA,3.0,39.0,4.4,16.0,15.0,40.71427,-74.00597
+74,Angora,male,False,white,solid,blue,FALSE,wet,USA,3.0,39.0,4.8,44.0,14.0,37.77493,-122.41942
+75,Angora,male,True,red/cream,tabby,blue,FALSE,dry,USA,3.08,39.0,5.1,25.0,16.0,47.60621,-122.33207
+76,Ankora,male,True,black,solid,green,TRUE,wet,USA,3.08,38.0,3.7,25.0,14.0,47.60621,-122.33207
+77,Ankora,male,True,white,solid,blue,FALSE,dry,France,3.08,40.0,5.3,11.0,14.0,44.837789,-0.57918
+78,Ankora,female,False,white,solid,amber,FALSE,wet,USA,3.17,36.0,4.0,11.0,14.0,40.71427,-74.00597
+79,Angora,male,False,black,bicolor,blue,FALSE,wet,USA,3.25,40.0,4.5,12.0,16.0,47.60621,-122.33207
+80,Angora,male,True,white,solid,amber,FALSE,dry,USA,3.42,41.0,4.4,24.0,17.0,45.52345,-122.67621
+81,Angora,male,True,black,solid,blue,FALSE,wet,USA,3.5,39.0,4.8,15.0,16.0,45.52345,-122.67621
+82,Angora,male,True,white,solid,green,TRUE,dry,USA,3.5,40.0,3.9,13.0,16.0,47.60621,-122.33207
+83,Angora,female,False,white,solid,amber,FALSE,dry,USA,3.5,33.0,4.3,37.0,14.0,41.881832,-87.623177
+84,Angora,female,True,white,solid,blue,FALSE,dry,France,3.58,35.0,3.4,23.0,16.0,48.864716,2.349014
+85,Angora,female,True,white,solid,blue,FALSE,wet,USA,3.58,34.0,3.3,20.0,14.0,41.881832,-87.623177
+86,Angora,male,False,white,solid,amber,FALSE,wet,USA,3.67,39.0,4.5,23.0,14.0,47.60621,-122.33207
+87,Angora,male,False,white,solid,amber,FALSE,wet,France,3.67,37.0,4.6,32.0,14.0,43.61166,3.87771
+88,Ragdoll,male,True,white,solid,blue,FALSE,wet,USA,3.67,37.0,4.2,33.0,14.0,37.77493,-122.41942
+89,Angora,male,True,white,solid,blue,FALSE,wet,USA,3.75,43.0,3.9,38.0,14.0,39.29038,-76.61219
+90,Angora,male,False,white,solid,green,FALSE,wet,USA,3.83,37.0,4.1,38.0,16.0,38.89511,-77.03637
+91,Angora,male,True,black,bicolor,amber,TRUE,wet,USA,3.83,40.0,4.8,11.0,15.0,40.71427,-74.00597
+92,Angora,male,False,red/cream,tabby,blue,FALSE,dry,France,4.460752487562499,39.0,4.0,18.0,14.0,47.218371,-1.553621
+93,Ragdoll,female,True,white,solid,amber,FALSE,dry,USA,3.92,34.0,4.7,25.0,14.0,40.71427,-74.00597
+94,Angora,female,True,black,solid,amber,FALSE,dry,USA,4.460752487562499,37.0,3.3,25.0,15.0,42.35843,-71.05977
+95,Angora,female,True,white,solid,blue,FALSE,wet,USA,4.460752487562499,35.0,2.8,28.0,14.0,38.89511,-77.03637
+96,Angora,male,True,white,solid,blue,FALSE,wet,USA,3.92,39.0,4.4,23.0,15.0,41.881832,-87.623177
+97,Angora,male,True,white,solid,green,FALSE,wet,USA,4.0,36.0,4.8,28.0,17.0,38.89511,-77.03637
+98,Ragdoll,male,False,white,solid,green,FALSE,wet,USA,4.08,37.0,4.8,38.0,14.0,39.29038,-76.61219
+99,Angora,female,True,white,solid,blue,FALSE,wet,USA,4.08,35.0,4.7,11.0,14.0,40.71427,-74.00597
+100,Angora,male,True,white,solid,blue,FALSE,wet,USA,4.08,37.0,5.6,12.0,14.0,42.35843,-71.05977
+101,Angora,female,True,white,solid,amber,FALSE,dry,USA,4.17,37.0,3.8,23.0,14.0,42.35843,-71.05977
+102,Angora,male,True,white,solid,amber,FALSE,wet,USA,4.17,41.0,4.5,24.0,16.0,38.89511,-77.03637
+103,Angora,female,True,white,solid,amber,TRUE,dry,USA,4.17,35.0,2.8,28.0,14.0,45.52345,-122.67621
+104,Angora,male,True,white,solid,amber,FALSE,dry,France,-4.25,37.0,4.6,36.0,14.0,45.76342,4.834277
+105,Angora,female,True,white,solid,cute,FALSE,wet,USA,-4.333333333,34.0,4.3,37.0,16.0,42.35843,-71.05977
+106,Angora,female,True,black,solid,amber,FALSE,wet,USA,-4.333333333,35.0,3.8,30.0,14.0,45.52345,-122.67621
+107,Angora,female,True,white,solid,blue,FALSE,wet,USA,-4.333333333,32.0,2.4,40.0,14.0,47.60621,-122.33207
+108,Angora,male,False,white,solid,blue,FALSE,wet,USA,-4.416666667,39.0,4.4,34.0,16.0,38.89511,-77.03637
+109,Angora,male,True,white,solid,amber,FALSE,dry,USA,-4.5,41.0,5.1,19.0,14.0,40.71427,-74.00597
+110,Angora,male,False,white,solid,blue,FALSE,wet,USA,-4.5,39.0,4.3,39.0,16.0,37.77493,-122.41942
+111,Angora,female,False,white,dirty,blue,FALSE,wet,USA,-4.583333333,35.0,3.4,36.0,14.0,40.71427,-74.00597
+112,Angora,female,True,white,solid,amber,TRUE,wet,USA,4.58,37.0,2.5,39.0,17.0,38.89511,-77.03637
+113,Angora,male,False,white,solid,amber,FALSE,dry,USA,4.58,35.0,4.3,36.0,17.0,38.89511,-77.03637
+114,Angora,female,True,white,solid,cute,FALSE,dry,USA,4.58,37.0,3.4,24.0,14.0,38.89511,-77.03637
+115,Angora,male,True,red/cream,solid,blue,FALSE,wet,USA,4.58,38.0,5.1,17.0,14.0,38.89511,-77.03637
+116,Angora,female,False,white,solid,amber,FALSE,wet,USA,4.75,38.0,3.9,14.0,16.0,40.71427,-74.00597
+117,Angora,female,True,white,solid,amber,FALSE,dry,USA,4.75,38.0,3.1,23.0,14.0,38.89511,-77.03637
+118,Angora,male,False,white,solid,blue,FALSE,dry,USA,4.75,37.0,4.0,32.0,16.0,40.71427,-74.00597
+119,Angora,male,True,white,solid,amber,FALSE,wet,USA,4.83,40.0,4.5,18.0,14.0,37.77493,-122.41942
+120,Angora,female,True,white,solid,amber,FALSE,wet,France,4.83,37.0,3.0,20.0,14.0,43.296482,5.36978
+121,Angora,male,False,white,solid,blue,FALSE,wet,USA,4.83,36.0,3.7,32.0,17.0,38.89511,-77.03637
+122,Angora,male,True,white,solid,green,FALSE,dry,USA,4.92,36.0,4.4,29.0,16.0,40.71427,-74.00597
+123,Angora,male,False,white,solid,amber,FALSE,wet,USA,4.92,41.0,4.9,14.0,14.0,38.89511,-77.03637
+124,Angora,male,True,red/cream,tabby,amber,TRUE,wet,USA,4.92,40.0,4.0,31.0,14.0,40.71427,-74.00597
+125,Angora,female,True,white,solid,blue,FALSE,wet,USA,4.92,38.0,4.6,28.0,17.0,41.881832,-87.623177
+126,Angora,female,True,white,solid,blue,FALSE,dry,USA,5.0,39.0,4.7,32.0,14.0,40.71427,-74.00597
+127,Angora,male,True,white,solid,amber,FALSE,dry,USA,5.0,37.0,5.2,29.0,14.0,45.52345,-122.67621
+128,Ankora,male,True,white,solid,amber,FALSE,wet,USA,5.08,40.0,4.7,31.0,14.0,42.35843,-71.05977
+129,Ankora,female,False,white,solid,blue,FALSE,wet,USA,5.08,39.0,3.4,27.0,16.0,42.35843,-71.05977
+130,Ankora,female,True,white,solid,blue,FALSE,dry,USA,5.08,37.0,3.1,29.0,14.0,40.71427,-74.00597
+131,Ankora,female,False,white,solid,blue,FALSE,dry,Germany,5.17,39.0,3.9,35.0,17.0,50.110924,8.682127
+132,Angora,female,True,white,solid,green,FALSE,dry,Germany,5.17,34.0,3.4,9.0,14.0,52.520008,13.404954
+133,Angora,female,True,white,solid,green,TRUE,wet,Germany,5.17,38.0,3.9,9.0,14.0,48.137154,11.576124
+134,Angora,female,False,white,solid,amber,FALSE,wet,Germany,5.17,38.0,2.7,27.0,14.0,48.137154,11.576124
+135,Angora,male,True,white,solid,amber,FALSE,wet,Germany,5.17,36.0,4.3,19.0,14.0,48.137154,11.576124
+136,Angora,male,True,white,solid,blue,FALSE,wet,Germany,5.17,40.0,4.9,39.0,14.0,50.110924,8.682127
+137,Ragdoll,male,False,white,solid,blue,FALSE,wet,Germany,5.17,36.0,3.5,37.0,14.0,52.520008,13.404954
+138,Ragdoll,female,False,white,solid,blue,FALSE,wet,Germany,5.17,39.0,4.1,17.0,16.0,50.110924,8.682127
+139,Ragdoll,female,True,white,solid,blue,FALSE,wet,Germany,5.25,31.0,2.4,29.0,16.0,48.137154,11.576124
+140,Ragdoll,female,False,white,solid,blue,FALSE,dry,Germany,5.25,37.0,3.1,23.0,14.0,52.520008,13.404954
+141,Ragdoll,female,True,white,solid,blue,FALSE,dry,Germany,5.33,35.0,3.4,26.0,14.0,50.110924,8.682127
+142,Ragdoll,male,False,white,solid,blue,FALSE,wet,Germany,5.33,36.0,4.5,9.0,14.0,52.520008,13.404954
+143,Ragdoll,female,True,white,solid,blue,TRUE,dry,Germany,5.33,37.0,2.9,16.0,14.0,48.137154,11.576124
+144,Ragdoll,male,True,black,solid,amber,FALSE,wet,Germany,5.42,38.0,4.3,23.0,17.0,50.110924,8.682127
+145,Angora,female,False,white,solid,blue,FALSE,wet,Germany,5.42,39.0,4.1,27.0,17.0,51.227741,6.773456
+146,Angora,male,True,white,solid,green,FALSE,dry,Germany,5.5,40.0,5.2,17.0,14.0,52.520008,13.404954
+147,Angora,male,False,black,solid,blue,FALSE,wet,Germany,5.58,40.0,4.4,27.0,14.0,52.520008,13.404954
+148,Angora,male,True,white,solid,cute,FALSE,wet,Germany,5.67,39.0,5.5,12.0,14.0,52.520008,13.404954
+149,Angora,male,False,white,solid,blue,FALSE,dry,Germany,5.67,41.0,4.3,24.0,14.0,50.110924,8.682127
+150,Angora,male,True,white,solid,green,FALSE,dry,Germany,5.67,36.0,5.1,37.0,14.0,52.520008,13.404954
+151,Angora,male,True,red/cream,tabby,blue,FALSE,wet,Germany,5.67,37.0,5.3,37.0,15.0,51.227741,6.773456
+152,Angora,male,False,white,solid,amber,FALSE,dry,Germany,5.75,39.0,4.4,39.0,15.0,50.110924,8.682127
+153,Angora,female,True,black,bicolor,amber,FALSE,dry,USA,5.75,38.0,4.4,18.0,14.0,42.35843,-71.05977
+154,Angora,female,True,white,solid,amber,TRUE,wet,USA,5.75,38.0,3.2,25.0,15.0,42.35843,-71.05977
+155,Angora,female,True,white,solid,blue,FALSE,wet,USA,5.75,31.0,3.1,9.0,15.0,40.71427,-74.00597
+156,Angora,female,True,white,solid,green,FALSE,wet,USA,5.92,39.0,4.8,12.0,16.0,42.35843,-71.05977
+157,Ankora,male,False,white,dirty,green,FALSE,dry,USA,5.92,38.0,4.3,26.0,13.0,40.71427,-74.00597
+158,Ankora,male,True,white,solid,amber,FALSE,wet,USA,5.92,41.0,3.9,29.0,13.0,42.35843,-71.05977
+159,Ankora,female,True,white,solid,amber,FALSE,dry,USA,5.92,36.0,4.7,29.0,16.0,40.71427,-74.00597
+160,Angora,male,False,white,solid,blue,FALSE,wet,USA,6.0,36.0,4.8,33.0,17.0,40.71427,-74.00597
+161,Angora,female,False,white,solid,green,FALSE,dry,France,6.0,36.0,3.6,26.0,13.0,45.76342,4.834277
+162,Angora,male,True,white,solid,blue,FALSE,wet,USA,6.08,38.0,4.4,16.0,14.0,37.77493,-122.41942
+163,Angora,female,True,white,solid,blue,FALSE,wet,USA,6.08,38.0,3.4,38.0,16.0,38.89511,-77.03637
+164,Angora,male,False,white,solid,blue,FALSE,dry,USA,6.08,41.0,3.7,39.0,16.0,40.71427,-74.00597
+165,Angora,male,False,white,solid,blue,FALSE,wet,USA,6.25,39.0,4.2,24.0,13.0,37.77493,-122.41942
+166,Angora,male,False,white,solid,amber,FALSE,wet,France,6.25,38.0,3.6,23.0,16.0,43.61166,3.87771
+167,Angora,male,False,white,solid,amber,FALSE,wet,USA,6.25,41.0,4.4,24.0,13.0,39.29038,-76.61219
+168,Angora,male,False,white,solid,green,FALSE,dry,USA,6.33,37.0,3.1,30.0,13.0,40.71427,-74.00597
+169,Angora,male,True,white,solid,amber,FALSE,wet,USA,6.42,36.0,4.7,12.0,16.0,41.881832,-87.623177
+170,Angora,male,True,red/cream,solid,blue,FALSE,wet,USA,6.5,37.0,4.5,30.0,17.0,47.60621,-122.33207
+171,Angora,male,True,white,solid,blue,TRUE,dry,USA,6.5,36.0,4.0,18.0,16.0,41.881832,-87.623177
+172,Angora,male,False,black,bicolor,amber,FALSE,wet,USA,6.5,39.0,4.2,15.0,17.0,47.60621,-122.33207
+173,Angora,female,False,white,solid,blue,FALSE,wet,USA,6.5,34.0,3.8,21.0,14.0,42.35843,-71.05977
+174,Angora,female,True,white,solid,blue,FALSE,wet,USA,6.5,38.0,5.2,9.0,13.0,40.71427,-74.00597
+175,Angorra,male,False,red/cream,tabby,blue,FALSE,wet,USA,6.58,40.0,4.2,12.0,14.0,39.29038,-76.61219
+176,Angora,male,True,red/cream,tabby,green,FALSE,dry,USA,6.58,41.0,3.8,23.0,16.0,40.71427,-74.00597
+177,Angora,male,False,white,solid,amber,FALSE,dry,Canada,6.58,41.0,3.9,16.0,17.0,43.65107,-79.347015
+178,Angora,male,True,white,solid,blue,FALSE,dry,Canada,6.67,40.0,4.8,13.0,14.0,51.049999,-114.066666
+179,Angora,female,False,white,solid,amber,FALSE,dry,Canada,6.67,34.0,2.2,34.0,17.0,43.65107,-79.347015
+180,Angora,female,False,white,solid,blue,FALSE,dry,Canada,6.75,37.0,2.4,16.0,14.0,45.42153,-75.697193
+181,Angora,male,True,white,solid,amber,FALSE,dry,Canada,6.75,39.0,4.4,24.0,14.0,49.246292,-123.116226
+182,Angora,male,True,white,solid,blue,TRUE,wet,my country,6.75,40.0,4.5,17.0,14.0,43.65107,-79.347015
+183,Angora,female,False,white,solid,amber,FALSE,dry,Canada,6.83,37.0,2.8,36.0,14.0,45.508888,-73.561668
+184,Angora,male,True,white,solid,blue,FALSE,wet,Canada,6.92,41.0,4.7,26.0,14.0,43.65107,-79.347015
+185,Angora,male,True,white,solid,amber,FALSE,wet,Canada,6.92,38.0,4.5,32.0,16.0,45.508888,-73.561668
+186,Ragdoll,female,True,white,solid,amber,FALSE,wet,Canada,6.92,39.0,4.3,22.0,14.0,49.246292,-123.116226
+187,Ragdoll,male,True,seal,dirty,blue,TRUE,dry,Canada,7.0,43.903435468895076,5.740900649953575,20.0,14.0,49.246292,-123.116226
+188,Ragdoll,male,True,white,solid,amber,FALSE,dry,Canada,7.0,39.0,4.4,16.0,14.0,51.049999,-114.066666
+189,Ragdoll,female,False,white,solid,blue,FALSE,wet,Canada,7.08,35.0,2.5,27.0,14.0,45.42153,-75.697193
+190,Ragdoll,male,True,white,solid,amber,FALSE,wet,Canada,7.17,40.0,5.4,9.0,20.0,49.246292,-123.116226
+191,Ragdoll,male,False,white,solid,green,FALSE,wet,Canada,7.25,39.0,4.0,37.0,20.0,49.246292,-123.116226
+192,Angora,male,True,white,solid,amber,FALSE,dry,Canada,7.25,36.0,4.9,29.0,19.0,45.508888,-73.561668
+193,Angora,male,False,white,solid,amber,FALSE,wet,Canada,7.25,38.0,4.4,27.0,16.0,49.246292,-123.116226
+194,Angora,female,False,black,bicolor,amber,FALSE,dry,Canada,7.25,33.0,4.0,16.0,14.0,51.049999,-114.066666
+195,Angora,male,False,white,solid,blue,FALSE,dry,Canada,7.25,40.0,4.2,17.0,19.0,51.049999,-114.066666
+196,Angora,male,True,red/cream,tabby,blue,FALSE,wet,USA,7.25,40.0,5.4,12.0,20.0,47.60621,-122.33207
+197,Angora,female,True,white,solid,blue,FALSE,dry,USA,7.25,33.0,2.5,23.0,18.0,38.89511,-77.03637
+198,Angora,male,False,black,bicolor,blue,FALSE,dry,USA,7.33,41.0,3.9,27.0,14.0,37.77493,-122.41942
+199,Angora,female,True,white,solid,blue,TRUE,dry,USA,-7.416666667,35.0,3.9,25.0,19.0,42.35843,-71.05977
+200,Angora,female,True,white,solid,amber,FALSE,wet,USA,-7.416666667,34.0,3.3,32.0,14.0,40.71427,-74.00597
+201,Angora,male,True,white,solid,amber,FALSE,wet,USA,-7.583333333,39.0,5.4,5.0,14.0,40.71427,-74.00597
+202,Angora,male,True,red/cream,tabby,blue,FALSE,wet,USA,-7.583333333,40.0,5.5,14.0,14.0,38.89511,-77.03637
+203,Angora,male,False,white,solid,blue,FALSE,wet,USA,-7.666666667,36.0,4.9,31.0,18.0,38.89511,-77.03637
+204,Angora,male,True,black,solid,blue,FALSE,wet,USA,7.67,40.0,5.3,39.0,18.0,40.71427,-74.00597
+205,Angora,female,True,white,solid,blue,TRUE,wet,USA,7.75,33.0,3.1,26.0,18.0,38.89511,-77.03637
+206,Angora,male,True,white,solid,green,FALSE,wet,USA,7.75,42.0,4.7,16.0,14.0,45.52345,-122.67621
+207,Angora,female,False,white,solid,green,FALSE,dry,USA,7.75,37.0,2.8,28.0,18.0,47.60621,-122.33207
+208,Angora,male,True,white,solid,blue,FALSE,wet,USA,7.75,37.0,4.2,15.0,18.0,38.89511,-77.03637
+209,Angora,male,False,black,solid,blue,FALSE,wet,USA,7.75,41.0,3.8,30.0,20.0,40.71427,-74.00597
+210,Angora,male,False,white,solid,amber,FALSE,wet,USA,7.83,37.0,3.5,25.0,14.0,42.35843,-71.05977
+211,Angora,male,True,white,solid,amber,FALSE,wet,USA,7.83,38.0,4.6,37.0,14.0,40.71427,-74.00597
+212,Angora,male,True,white,solid,amber,FALSE,dry,USA,7.83,38.0,4.0,27.0,16.0,39.29038,-76.61219
+213,Angora,male,True,white,solid,amber,FALSE,wet,USA,7.83,40.0,5.3,25.0,18.0,38.89511,-77.03637
+214,Angora,female,True,white,bicolor,blue,TRUE,wet,USA,7.83,33.0,4.0,10.0,16.0,42.35843,-71.05977
+215,Angorra,male,False,white,solid,blue,FALSE,wet,USA,7.83,40.0,4.3,25.0,18.0,42.35843,-71.05977
+216,Angorra,male,True,red/cream,solid,blue,FALSE,wet,where I live,7.83,39.0,5.0,24.0,16.0,40.71427,-74.00597
+217,Angorra,male,True,white,solid,blue,FALSE,wet,USA,7.92,39.0,3.8,32.0,19.0,37.77493,-122.41942
+218,Angorra,female,False,black,solid,blue,FALSE,wet,USA,8.0,37.0,3.4,29.0,17.0,42.35843,-71.05977
+219,Angorra,male,False,white,solid,blue,FALSE,dry,USA,8.0,36.0,4.5,28.0,16.0,45.52345,-122.67621
+220,Angora,female,True,white,solid,amber,FALSE,wet,USA,8.0,34.0,4.9,17.0,19.0,40.71427,-74.00597
+221,Angora,male,False,red/cream,solid,blue,FALSE,dry,USA,7.17,36.0,3.5,29.0,20.0,38.89511,-77.03637
+222,Angora,female,False,white,solid,amber,FALSE,wet,USA,8.08,33.0,3.1,18.0,19.0,40.71427,-74.00597
+223,Angora,male,True,black,bicolor,amber,TRUE,wet,USA,8.08,41.0,4.2,9.0,18.0,42.35843,-71.05977
+224,Angora,male,True,red/cream,tabby,blue,FALSE,wet,with me,8.08,37.0,3.8,27.0,16.0,41.881832,-87.623177
+225,Angora,male,True,white,solid,blue,TRUE,wet,USA,4.0,36.0,2.4,14.0,14.0,37.77493,-122.41942
+226,Angora,male,True,white,dirty,amber,FALSE,wet,USA,8.25,34.0,3.6,25.0,19.0,39.29038,-76.61219
+227,Angora,male,False,white,solid,blue,FALSE,dry,USA,4.17,35.0,2.8,20.0,14.0,45.52345,-122.67621
+228,Angora,male,False,white,solid,blue,FALSE,dry,USA,4.460752487562499,36.0,2.3,16.0,16.0,45.52345,-122.67621
+229,Angora,male,True,white,solid,amber,FALSE,dry,USA,4.460752487562499,35.0,2.8,25.0,17.0,38.89511,-77.03637
+230,Angora,male,False,white,solid,blue,FALSE,dry,USA,4.460752487562499,40.0,4.0,18.0,14.0,45.52345,-122.67621
+231,Angora,male,True,black,bicolor,blue,TRUE,wet,USA,4.460752487562499,36.0,4.8,9.0,16.0,40.71427,-74.00597
+232,Angora,female,False,white,solid,blue,FALSE,dry,USA,4.460752487562499,33.0,3.0,34.0,14.0,47.60621,-122.33207
+233,Angora,male,False,white,solid,amber,FALSE,wet,USA,4.460752487562499,39.0,4.4,18.0,16.0,42.35843,-71.05977
+234,Angora,female,False,white,solid,blue,FALSE,wet,USA,4.460752487562499,38.0,4.6,21.0,14.0,47.60621,-122.33207
+235,Angora,male,True,red/cream,solid,blue,FALSE,wet,USA,4.460752487562499,52.0,5.0,30.0,16.0,38.89511,-77.03637
+236,Angora,female,True,white,solid,I dont know. Its pretty!,FALSE,dry,USA,8.67,35.0,4.1,15.0,16.0,40.71427,-74.00597
+237,Angora,female,True,white,solid,blue,TRUE,wet,USA,4.75,34.0,2.7,22.0,14.0,47.60621,-122.33207
+238,Angora,female,True,white,solid,blue,FALSE,wet,USA,6.83,36.0,3.6,32.0,17.0,42.35843,-71.05977
+239,Angora,female,False,white,solid,green,FALSE,wet,USA,7.5,36.0,3.5,16.0,14.0,38.89511,-77.03637
+240,Ragdoll,male,False,white,solid,blue,FALSE,wet,USA,7.58,36.0,3.6,39.0,18.0,41.881832,-87.623177
+241,Angora,female,True,black,bicolor,amber,FALSE,dry,USA,8.92,34.0,4.5,13.0,19.0,40.71427,-74.00597
+242,Angora,female,False,white,solid,green,FALSE,wet,USA,6.75,33.0,2.9,20.0,16.0,45.52345,-122.67621
+243,Angora,female,True,white,solid,amber,TRUE,dry,USA,9.0,38.0,3.7,6.0,17.0,38.89511,-77.03637
+244,Angora,female,False,white,solid,amber,FALSE,wet,USA,7.33,39.0,4.3,16.0,13.0,38.89511,-77.03637
+245,Angora,female,False,white,solid,amber,FALSE,wet,USA,5.17,36.0,2.5,27.0,13.0,45.52345,-122.67621
+246,Ragdoll,male,True,black,bicolor,blue,FALSE,wet,USA,9.08,58.0,5.2,30.0,20.0,42.35843,-71.05977
+247,Angora,female,False,white,solid,green,FALSE,wet,USA,9.17,35.0,4.1,20.0,16.0,47.60621,-122.33207
+248,Angora,male,True,white,solid,amber,FALSE,wet,USA,6.5,39.0,3.5,25.0,17.0,38.89511,-77.03637
+249,Angora,male,True,white,solid,amber,FALSE,wet,USA,9.25,38.0,5.0,27.0,16.0,38.89511,-77.03637
+250,Angora,male,False,white,solid,amber,FALSE,wet,USA,9.25,38.0,3.9,22.0,19.0,38.89511,-77.03637
+251,Angorra,female,False,white,dirty,green,FALSE,wet,USA,9.33,36.0,3.9,25.0,14.0,38.89511,-77.03637
+252,Angorra,male,True,white,solid,blue,FALSE,dry,USA,8.33,41.0,4.1,18.0,14.0,40.71427,-74.00597
+253,Angorra,female,False,white,solid,amber,FALSE,dry,USA,4.25,33.0,2.7,38.0,17.0,40.71427,-74.00597
+254,Angorra,female,True,white,solid,blue,TRUE,wet,USA,6.42,36.0,2.5,19.0,17.0,38.89511,-77.03637
+255,Angorra,female,True,white,solid,blue,FALSE,wet,USA,9.5,38.0,4.1,18.0,19.0,42.35843,-71.05977
+256,Angora,male,True,white,solid,blue,FALSE,wet,USA,9.58,36.0,4.0,28.0,16.0,40.71427,-74.00597
+257,Angora,female,True,white,solid,blue,FALSE,wet,USA,3.0,39.0,3.1,23.17652495378928,15.898305084745763,40.71427,-74.00597
+258,Angora,male,True,black,solid,blue,FALSE,wet,USA,9.58,61.0,5.0,23.17652495378928,15.898305084745763,40.71427,-74.00597
+259,Angora,female,True,white,solid,blue,FALSE,wet,USA,9.67,36.0,4.1,23.17652495378928,15.898305084745763,40.71427,-74.00597
+260,Angora,female,True,white,solid,blue,FALSE,wet,USA,5.92,35.0,3.3,23.17652495378928,15.898305084745763,40.71427,-74.00597
+261,Angora,male,False,white,solid,blue,FALSE,wet,USA,9.67,39.0,5.2,23.17652495378928,15.898305084745763,39.29038,-76.61219
+262,Angora,female,False,white,solid,blue,FALSE,wet,USA,9.67,37.0,4.6,23.17652495378928,15.898305084745763,39.29038,-76.61219
+263,Angora,female,True,white,solid,blue,FALSE,dry,USA,6.33,38.0,4.8,23.17652495378928,15.898305084745763,53.480759,-2.242631
+264,Angora,male,False,white,solid,amber,FALSE,wet,USA,8.42,40.0,4.3,23.17652495378928,15.898305084745763,53.800755,-1.549077
+265,Angora,male,False,white,solid,blue,FALSE,wet,USA,9.75,38.0,4.4,23.17652495378928,15.898305084745763,52.486244,-1.890401
+266,Angora,male,False,white,solid,blue,FALSE,wet,USA,4.460752487562499,37.0,4.9,23.17652495378928,15.898305084745763,52.486244,-1.890401
+267,Angora,female,True,black,bicolor,blue,FALSE,wet,USA,4.460752487562499,37.0,2.6,23.17652495378928,15.898305084745763,53.480759,-2.242631
+268,Angora,female,True,black,bicolor,blue,FALSE,dry,UK,4.460752487562499,35.0,3.3,23.0,14.0,51.507351,-0.127758
+269,Angora,female,False,white,solid,blue,FALSE,wet,UK,4.460752487562499,35.0,4.9,11.0,17.0,52.486244,-1.890401
+270,Angora,female,True,white,solid,amber,TRUE,dry,UK,9.83,39.0,2.9,6.0,14.0,53.480759,-2.242631
+271,Angora,male,False,red/cream,tabby,blue,FALSE,dry,UK,9.83,48.0,5.2,22.0,16.0,53.408371,-2.991573
+272,Angora,female,True,white,solid,blue,TRUE,wet,UK,8.42,36.0,4.0,18.0,20.0,53.480759,-2.242631
+273,Angora,female,True,white,solid,amber,FALSE,dry,UK,4.92,35.0,2.9,38.0,13.0,51.507351,-0.127758
+274,Angora,male,False,black,tortie,blue,FALSE,wet,UK,7.08,40.0,5.0,39.0,17.0,52.486244,-1.890401
+275,Angora,female,False,white,solid,blue,FALSE,wet,UK,5.08,33.0,2.4,13.0,13.0,53.800755,-1.549077
+276,Angora,male,False,white,solid,amber,FALSE,wet,UK,10.0,36.0,3.8,23.0,14.0,53.480759,-2.242631
+277,Angora,male,True,white,solid,blue,FALSE,wet,UK,11.25,40.0,4.4,13.0,18.0,53.480759,-2.242631
+278,Angora,female,True,white,solid,blue,TRUE,wet,USA,10.0,37.0,3.7,19.0,17.0,40.71427,-74.00597
+279,Angora,female,True,red/cream,solid,blue,FALSE,wet,USA,5.83,35.0,2.6,23.0,13.0,41.881832,-87.623177
+280,My coon,female,False,brown/chocolate,tabby,blue,FALSE,wet,USA,0.25,22.0,3.3,50.0,16.0,37.77493,-122.41942
+281,Maine coon,male,False,white,solid,blue,FALSE,wet,USA,0.17,25.0,3.7,60.0,16.0,38.89511,-77.03637
+282,Maine coon,male,False,brown/chocolate,solid,yellow,FALSE,wet,USA,0.42,25.0,3.3,20.0,16.0,40.71427,-74.00597
+283,Maine coon,male,False,brown/chocolate,tabby,yellow,FALSE,wet,UK,0.5,26.0,3.3,54.0,10.0,53.408371,-2.991573
+284,My coon,female,False,brown/chocolate,tabby,yellow,FALSE,wet,USA,0.5,30.0,3.5,39.0,15.898305084745763,52.486244,-1.890401
+285,Maine coon,female,False,white,solid,blue,FALSE,wet,USA,0.5,31.0,3.0,24.0,15.898305084745763,51.507351,-0.127758
+286,Maine coon,female,False,black,tortie,yellow,FALSE,wet,USA,0.5,34.0,3.0,41.0,15.898305084745763,52.486244,-1.890401
+287,Maine coon,male,False,white,solid,blue,FALSE,wet,USA,0.58,35.0,3.7,54.0,15.898305084745763,51.507351,-0.127758
+288,Maine coon,female,True,brown/chocolate,tabby,blue,FALSE,wet,USA,0.67,36.0,3.2,47.0,15.898305084745763,53.480759,-2.242631
+289,Maine coon,male,False,white,solid,blue,FALSE,dry,USA,0.67,38.0,3.6,40.0,15.898305084745763,53.408371,-2.991573
+290,Maine coon,male,True,brown/chocolate,solid,yellow,FALSE,dry,USA,0.67,40.0,3.1,54.0,15.898305084745763,52.486244,-1.890401
+291,Maine coon,female,False,white,solid,blue,FALSE,wet,USA,5.0,38.0,3.9,36.0,15.898305084745763,51.507351,-0.127758
+292,Ragdoll,female,True,black,solid,green,FALSE,wet,UK,1.08,42.0,3.1,40.0,19.0,52.486244,-1.890401
+293,Ragdoll,male,True,seal,solid,blue,FALSE,wet,UK,0.75,43.903435468895076,5.740900649953575,28.0,20.0,52.486244,-1.890401
+294,Ragdoll,male,True,seal,solid,blue,FALSE,wet,UK,0.75,43.903435468895076,5.740900649953575,31.0,19.0,51.507351,-0.127758
+295,Ragdoll,male,True,seal,solid,blue,FALSE,dry,UK,1.08,43.903435468895076,5.740900649953575,28.0,16.0,51.507351,-0.127758
+296,Ragdoll,male,True,seal,solid,blue,FALSE,wet,UK,0.75,43.903435468895076,5.740900649953575,22.0,20.0,53.480759,-2.242631
+297,Ragdoll,female,True,black,bicolor,yellow,FALSE,wet,UK,4.83,32.0,4.0,21.0,13.0,53.480759,-2.242631
+298,Maine coon,female,True,brown/chocolate,tabby,yellow,FALSE,wet,USA,3.67,53.0,4.0,32.0,15.898305084745763,51.507351,-0.127758
+299,Maine coon,male,True,red/cream,tabby,blue,FALSE,wet,USA,4.75,56.0,4.0,44.0,15.898305084745763,53.408371,-2.991573
+300,Maine coon,female,True,black,bicolor,green,FALSE,dry,UK,1.08,31.0,3.7,28.0,18.0,53.408371,-2.991573
+301,Maine coon,female,False,white,solid,blue,FALSE,wet,USA,0.92,39.0,3.0,33.0,19.0,41.881832,-87.623177
+302,Maine coon,female,True,white,solid,blue,FALSE,wet,USA,1.42,37.0,3.2,27.0,18.0,39.29038,-76.61219
+303,Maine coon,male,True,white,solid,blue,FALSE,wet,UK,1.0,28.0,3.6,12.0,19.0,52.486244,-1.890401
+304,Maine coon,male,True,white,solid,blue,TRUE,dry,UK,3.17,32.0,3.9,28.0,17.0,53.480759,-2.242631
+305,Maine coon,male,False,black,bicolor,yellow,FALSE,wet,UK,1.0,46.0,3.5,17.0,17.0,53.408371,-2.991573
+306,Maine coon,female,True,white,solid,blue,FALSE,wet,UK,1.0,31.0,3.2,26.0,20.0,53.800755,-1.549077
+307,Maine coon,female,False,brown/chocolate,tabby,green,FALSE,wet,UK,5.17,38.0,4.0,38.0,13.0,53.408371,-2.991573
+308,Maine coon,male,False,black,solid,yellow,FALSE,wet,France,6.58,48.0,3.9,36.0,13.0,47.218371,-1.553621
+309,Maine coon,male,False,black,solid,yellow,FALSE,wet,France,1.08,55.0,3.8,36.0,18.0,47.218371,-1.553621
+310,Maine coon,male,False,white,solid,yellow,FALSE,wet,France,4.0,54.0,4.0,11.0,13.0,48.864716,2.349014
+311,Maine coon,male,True,black,solid,blue,FALSE,dry,France,4.5,60.0,5.2,16.0,13.0,43.296482,5.36978
+312,Maine coon,female,True,white,solid,blue,FALSE,dry,France,1.17,35.0,3.3,18.0,18.0,47.218371,-1.553621
+313,Maine coon,male,False,black,solid,blue,FALSE,wet,France,1.17,35.0,4.3,11.0,19.0,43.296482,5.36978
+314,Maine coon,male,True,black,solid,blue,FALSE,wet,France,1.33,56.0,3.8,22.0,21.0,44.837789,-0.57918
+315,Maine coon,female,True,black,solid,blue,FALSE,wet,France,1.33,50.0,3.3,17.0,21.0,48.864716,2.349014
+316,My coon,male,True,black,solid,blue,FALSE,wet,France,5.58,56.0,4.2,17.0,16.0,48.864716,2.349014
+317,Maine coon,female,False,black,solid,blue,FALSE,dry,France,1.42,30.0,3.2,39.0,18.0,45.76342,4.834277
+318,Maine coon,male,True,red/cream,solid,blue,FALSE,wet,France,4.460752487562499,47.0,3.6,22.0,19.0,44.837789,-0.57918
+319,Maine coon,male,False,brown/chocolate,solid,blue,FALSE,dry,France,4.460752487562499,46.0,4.3,13.0,18.0,47.218371,-1.553621
+320,Maine coon,female,False,brown/chocolate,solid,blue,FALSE,dry,France,4.460752487562499,38.0,3.2,17.0,15.0,48.864716,2.349014
+321,Maine coon,female,True,black,solid,blue,FALSE,wet,UK,4.460752487562499,60.0,3.7,37.0,19.0,51.507351,-0.127758
+322,Maine coon,male,False,brown/chocolate,solid,blue,FALSE,wet,UK,4.460752487562499,53.0,4.0,31.0,13.0,51.507351,-0.127758
+323,Maine coon,male,True,red/cream,solid,blue,FALSE,wet,UK,4.460752487562499,54.0,4.5,14.0,19.0,53.800755,-1.549077
+324,Maine coon,male,False,white,solid,blue,FALSE,dry,UK,5.75,31.0,3.9,29.0,13.0,53.800755,-1.549077
+325,Maine coon,female,True,black,solid,yellow,FALSE,wet,UK,1.58,53.0,5.0,19.0,17.0,53.800755,-1.549077
+326,Maine coon,male,True,brown/chocolate,tabby,yellow,FALSE,wet,UK,1.67,35.0,3.9,34.0,19.0,53.800755,-1.549077
+327,Maine coon,male,False,white,solid,blue,FALSE,wet,UK,1.67,32.0,3.8,27.0,18.0,51.507351,-0.127758
+328,Maine coon,male,True,red/cream,tabby,yellow,FALSE,wet,France,1.75,36.0,3.3,37.0,21.0,43.61166,3.87771
+329,Maine coon,female,True,black,bicolor,yellow,FALSE,dry,UK,1.75,53.0,4.0,20.0,19.0,53.480759,-2.242631
+330,Maine coon,female,True,black,solid,yellow,FALSE,dry,UK,1.75,60.0,4.5,12.0,16.0,53.408371,-2.991573
+331,Maine coon,male,True,black,solid,yellow,TRUE,wet,UK,1.75,58.0,3.1,26.0,13.0,53.408371,-2.991573
+332,Maine coon,male,False,black,solid,yellow,FALSE,wet,UK,1.75,42.0,3.7,13.0,19.0,51.507351,-0.127758
+333,Maine coon,female,True,red/cream,solid,yellow,FALSE,dry,UK,1.83,58.0,5.3,14.0,20.0,52.486244,-1.890401
+334,Maine coon,female,False,black,solid,yellow,FALSE,wet,UK,1.83,59.0,6.3,13.0,16.0,51.507351,-0.127758
+335,Maine coon,male,True,red/cream,tabby,yellow,FALSE,dry,Germany,1.92,40.0,3.4,12.0,20.0,51.227741,6.773456
+336,Maine coon,female,True,white,solid,blue,FALSE,dry,UK,1.92,36.0,3.2,44.0,13.0,51.507351,-0.127758
+337,Maine coon,male,True,red/cream,solid,yellow,FALSE,dry,Germany,1.92,53.0,4.0,30.0,18.0,52.520008,13.404954
+338,Maine coon,male,True,white,solid,yellow,TRUE,wet,UK,2.0,31.0,3.0,34.0,13.0,52.486244,-1.890401
+339,Maine coon,female,True,black,solid,yellow,FALSE,wet,UK,2.0,46.0,3.8,24.0,13.0,51.507351,-0.127758
+340,Maine coon,female,False,white,solid,blue,FALSE,dry,UK,2.0,32.0,3.8,23.0,13.0,52.486244,-1.890401
+341,Ragdoll,female,False,brown/chocolate,tabby,yellow,FALSE,dry,UK,2.0,38.0,3.3,29.0,13.0,51.507351,-0.127758
+342,Ragdoll,female,True,black,solid,yellow,FALSE,wet,UK,2.08,76.0,6.31,33.0,13.0,53.480759,-2.242631
+343,Ragdoll,female,False,black,solid,yellow,FALSE,wet,UK,2.08,78.0,7.3,14.0,13.0,53.480759,-2.242631
+344,Ragdoll,female,False,black,solid,yellow,FALSE,dry,UK,2.17,70.0,6.0,25.0,13.0,53.480759,-2.242631
+345,Ragdoll,male,True,black,solid,green,FALSE,wet,UK,4.460752487562499,56.0,6.09,38.0,13.0,52.486244,-1.890401
+346,Maine coon,male,False,red/cream,tabby,yellow,FALSE,wet,UK,2.17,85.0,9.0,32.0,13.0,53.480759,-2.242631
+347,Maine coon,female,True,brown/chocolate,tabby,yellow,FALSE,wet,UK,2.17,66.0,5.36,39.0,13.0,52.486244,-1.890401
+348,Maine coon,male,True,brown/chocolate,tabby,yellow,FALSE,wet,UK,2.17,51.0,9.4,39.0,17.0,53.408371,-2.991573
+349,Maine coon,male,True,black,solid,yellow,FALSE,wet,UK,2.17,93.0,11.3,29.0,13.0,53.408371,-2.991573
+350,Maine coon,female,True,brown/chocolate,tabby,yellow,FALSE,dry,UK,2.17,65.0,4.9,10.0,13.0,52.486244,-1.890401
+351,Maine coon,female,False,black,solid,yellow,FALSE,wet,UK,2.17,59.0,6.61,16.0,16.0,53.408371,-2.991573
+352,Maine coon,female,False,brown/chocolate,tabby,yellow,FALSE,dry,UK,2.25,66.0,8.42,15.0,13.0,53.800755,-1.549077
+353,Maine coon,female,True,black,solid,yellow,FALSE,wet,UK,2.25,55.0,8.47,10.0,13.0,52.486244,-1.890401
+354,Maine coon,male,False,brown/chocolate,tabby,yellow,FALSE,wet,UK,2.33,74.0,7.2,19.0,13.0,51.507351,-0.127758
+355,Maine coon,male,True,red/cream,tabby,yellow,FALSE,dry,UK,2.33,68.0,9.9,16.0,17.0,53.408371,-2.991573
+356,Maine coon,female,True,black,solid,yellow,TRUE,wet,UK,2.33,80.0,6.9,41.0,16.0,52.486244,-1.890401
+357,My coon,male,True,red/cream,tabby,yellow,FALSE,wet,Germany,2.42,71.0,8.3,12.0,17.0,51.227741,6.773456
+358,Maine coon,male,False,brown/chocolate,tabby,green,FALSE,wet,Germany,2.5,56.0,8.5,10.0,16.0,52.520008,13.404954
+359,Maine coon,male,True,black,solid,yellow,FALSE,wet,Germany,2.5,61.0,9.7,21.0,13.0,48.137154,11.576124
+360,Maine coon,male,True,red/cream,tabby,yellow,FALSE,wet,Germany,2.5,72.0,9.1,24.0,13.0,48.137154,11.576124
+361,Maine coon,female,True,brown/chocolate,tabby,green,FALSE,dry,Germany,2.58,79.0,7.15,32.0,13.0,50.110924,8.682127
+362,Maine coon,male,True,red/cream,tabby,green,FALSE,dry,Germany,2.58,85.0,9.4,44.0,13.0,52.520008,13.404954
+363,Ragdoll,male,True,brown/chocolate,tabby,yellow,FALSE,dry,UK,4.460752487562499,55.0,8.0,17.0,13.0,52.486244,-1.890401
+364,Maine coon,male,True,black,solid,yellow,TRUE,dry,UK,2.58,85.0,9.6,27.0,13.0,53.480759,-2.242631
+365,Maine coon,female,True,black,solid,yellow,FALSE,dry,UK,2.58,45.0,6.09,35.0,13.0,53.408371,-2.991573
+366,Maine coon,male,True,brown/chocolate,tabby,yellow,FALSE,wet,UK,2.67,60.0,9.6,14.0,13.0,53.480759,-2.242631
+367,Maine coon,female,False,black,solid,yellow,FALSE,dry,UK,2.75,69.0,7.77,32.0,17.0,52.486244,-1.890401
+368,Maine coon,female,True,red/cream,solid,yellow,FALSE,wet,UK,2.83,53.0,3.75,20.0,13.0,53.480759,-2.242631
+369,Ragdoll,male,True,black,solid,yellow,FALSE,wet,UK,4.460752487562499,77.0,5.0,28.0,17.0,53.408371,-2.991573
+370,Maine coon,male,True,red/cream,tabby,green,FALSE,dry,USA,2.83,83.0,10.8,31.0,17.0,42.35843,-71.05977
+371,Maine coon,male,True,black,bicolor,yellow,FALSE,dry,USA,2.92,52.0,8.4,12.0,13.0,40.71427,-74.00597
+372,Maine coon,male,False,white,solid,yellow,FALSE,wet,USA,2.92,72.0,8.0,25.0,17.0,40.71427,-74.00597
+373,Maine coon,male,True,black,solid,yellow,FALSE,wet,USA,3.0,70.0,7.1,28.0,16.0,45.52345,-122.67621
+374,Ragdoll,female,True,brown/chocolate,tabby,yellow,FALSE,dry,USA,3.0,60.0,4.96,18.0,13.0,45.52345,-122.67621
+375,Maine coon,female,False,black,solid,yellow,FALSE,wet,USA,3.0,41.0,5.36,18.0,13.0,39.29038,-76.61219
+376,Maine coon,male,True,red/cream,tabby,yellow,TRUE,wet,USA,3.08,62.0,10.4,30.0,16.0,41.881832,-87.623177
+377,Maine coon,female,False,black,solid,yellow,FALSE,wet,USA,3.08,79.0,6.55,12.0,13.0,42.35843,-71.05977
+378,Maine coon,female,True,brown/chocolate,solid,yellow,FALSE,wet,USA,3.17,62.0,7.12,10.0,13.0,41.881832,-87.623177
+379,Maine coon,male,False,black,bicolor,yellow,FALSE,wet,Germany,3.17,53.0,7.1,26.0,16.0,48.137154,11.576124
+380,Maine coon,male,False,black,solid,yellow,FALSE,dry,Germany,3.17,80.0,9.8,16.0,13.0,52.520008,13.404954
+381,My coon,male,True,brown/chocolate,solid,yellow,FALSE,dry,Germany,3.25,72.0,10.8,12.0,13.0,50.110924,8.682127
+382,Maine coon,female,True,black,solid,yellow,FALSE,wet,Germany,3.33,80.0,5.47,24.0,17.0,50.110924,8.682127
+383,Maine coon,male,True,brown/chocolate,tabby,yellow,FALSE,wet,Germany,3.42,60.0,10.1,15.0,13.0,50.110924,8.682127
+384,Maine coon,male,False,brown/chocolate,solid,yellow,FALSE,wet,Germany,3.42,73.0,9.8,37.0,13.0,52.520008,13.404954
+385,Maine coon,female,False,red/cream,solid,yellow,FALSE,dry,Germany,3.58,71.0,5.79,20.0,13.0,50.110924,8.682127
+386,Maine coon,male,False,brown/chocolate,tabby,yellow,FALSE,wet,Germany,3.58,67.0,10.5,12.0,16.0,48.137154,11.576124
+387,Maine coon,female,False,black,solid,yellow,FALSE,wet,USA,3.58,75.0,8.22,39.0,16.0,40.71427,-74.00597
+388,Maine coon,female,True,brown/chocolate,tabby,yellow,TRUE,dry,USA,3.58,51.0,6.67,32.0,13.0,42.35843,-71.05977
+389,Maine coon,male,True,brown/chocolate,tabby,yellow,FALSE,wet,USA,3.67,53.0,7.3,36.0,13.0,45.52345,-122.67621
+390,Maine coon,female,True,black,solid,green,FALSE,dry,USA,3.75,67.0,4.8,20.0,13.0,39.29038,-76.61219
+391,Maine coon,female,True,black,bicolor,yellow,FALSE,wet,USA,3.83,72.0,7.1,26.0,13.0,38.89511,-77.03637
+392,Maine coon,female,True,black,solid,green,FALSE,wet,USA,3.83,47.0,5.65,20.0,13.0,39.29038,-76.61219
+393,Maine coon,female,False,brown/chocolate,bicolor,yellow,FALSE,dry,USA,3.83,42.0,7.01,27.0,13.0,42.35843,-71.05977
+394,Ragdoll,female,True,white,solid,blue,FALSE,wet,USA,3.83,37.0,5.96,29.0,13.0,47.60621,-122.33207
+395,Ragdoll,male,True,brown/chocolate,tabby,green,FALSE,dry,USA,3.92,67.0,7.8,35.0,13.0,38.89511,-77.03637
+396,Ragdoll,female,True,black,bicolor,yellow,TRUE,wet,USA,4.08,49.0,6.28,10.0,13.0,38.89511,-77.03637
+397,Ragdoll,female,True,black,solid,yellow,FALSE,dry,USA,4.08,67.0,7.09,27.0,13.0,38.89511,-77.03637
+398,Ragdoll,male,False,black,bicolor,yellow,FALSE,wet,USA,4.08,86.0,8.4,11.0,13.0,38.89511,-77.03637
+399,Ragdoll,female,False,white,solid,blue,FALSE,wet,USA,4.08,38.0,5.06,9.0,13.0,37.77493,-122.41942
+400,Maine coon,female,True,brown/chocolate,solid,yellow,FALSE,wet,USA,4.17,39.0,8.21,4.0,13.0,40.71427,-74.00597
+401,Maine coon,male,True,red/cream,tabby,green,FALSE,wet,USA,4.17,79.0,11.5,18.0,13.0,40.71427,-74.00597
+402,Maine coon,female,False,black,solid,yellow,FALSE,dry,USA,4.17,57.0,7.44,13.0,13.0,38.89511,-77.03637
+403,Maine coon,female,True,black,bicolor,yellow,FALSE,dry,USA,4.25,69.0,8.68,9.0,13.0,40.71427,-74.00597
+404,Maine coon,female,True,black,solid,yellow,FALSE,dry,USA,4.25,70.0,5.0,30.0,16.0,40.71427,-74.00597
+405,Maine coon,male,True,brown/chocolate,tabby,yellow,TRUE,dry,USA,4.25,83.0,10.5,37.0,13.0,47.60621,-122.33207
+406,Maine coon,male,False,black,solid,yellow,FALSE,dry,USA,4.25,83.0,11.3,36.0,16.0,42.35843,-71.05977
+407,Maine coon,male,True,white,solid,blue,FALSE,wet,USA,4.33,70.0,9.7,38.0,13.0,45.52345,-122.67621
+408,Maine coon,female,True,black,solid,yellow,FALSE,wet,USA,4.33,48.0,4.88,25.0,13.0,42.35843,-71.05977
+409,Maine coon,male,True,brown/chocolate,tabby,yellow,FALSE,dry,USA,4.33,63.0,10.3,27.0,13.0,41.881832,-87.623177
+410,Maine coon,female,True,black,solid,yellow,FALSE,wet,USA,4.42,77.0,6.39,33.0,16.0,39.29038,-76.61219
+411,Maine coon,female,False,black,solid,green,FALSE,wet,USA,4.42,79.0,6.25,19.0,13.0,38.89511,-77.03637
+412,Maine coon,male,False,black,tortie,yellow,FALSE,wet,USA,4.42,46.0,6.62,12.0,13.0,42.35843,-71.05977
+413,Maine coon,male,True,black,solid,yellow,FALSE,wet,USA,4.5,72.0,4.8,26.0,17.0,40.71427,-74.00597
+414,Maine coon,male,False,red/cream,tabby,yellow,FALSE,wet,USA,4.58,58.0,7.5,18.0,13.0,38.89511,-77.03637
+415,Maine coon,male,True,red/cream,solid,yellow,FALSE,dry,USA,4.58,57.0,8.7,19.0,13.0,40.71427,-74.00597
+416,My coon,male,True,brown/chocolate,tabby,yellow,TRUE,wet,USA,4.67,71.0,7.0,21.0,13.0,40.71427,-74.00597
+417,My coon,male,True,brown/chocolate,tabby,yellow,FALSE,wet,USA,4.67,51.0,9.0,21.0,13.0,42.35843,-71.05977
+418,My coon,female,True,black,solid,yellow,FALSE,wet,USA,4.75,50.0,5.92,9.0,13.0,40.71427,-74.00597
+419,My coon,female,True,black,solid,green,FALSE,wet,USA,4.75,48.0,6.31,34.0,13.0,37.77493,-122.41942
+420,Maine coon,male,True,black,solid,yellow,TRUE,wet,USA,4.75,84.0,11.3,15.0,13.0,40.71427,-74.00597
+421,Maine coon,male,False,brown/chocolate,tabby,green,FALSE,wet,USA,4.83,54.0,7.0,37.0,13.0,47.60621,-122.33207
+422,Maine coon,female,False,black,tortie,yellow,FALSE,wet,USA,4.83,74.0,4.95,27.0,13.0,40.71427,-74.00597
+423,Maine coon,female,True,brown/chocolate,tabby,yellow,FALSE,dry,USA,4.83,42.0,6.19,25.0,13.0,40.71427,-74.00597
+424,Maine coon,female,True,white,solid,blue,FALSE,dry,USA,4.92,39.0,4.54,34.0,13.0,42.35843,-71.05977
+425,My coon,female,True,black,solid,yellow,FALSE,wet,USA,4.92,56.0,8.89,12.0,13.0,41.881832,-87.623177
+426,Maine coon,female,True,black,solid,yellow,FALSE,dry,USA,5.0,59.0,5.76,34.0,13.0,47.60621,-122.33207
+427,Maine coon,male,False,black,solid,yellow,FALSE,wet,USA,5.0,48.0,8.1,31.0,17.0,37.77493,-122.41942
+428,Maine coon,male,True,black,solid,green,FALSE,wet,USA,5.0,76.0,8.4,27.0,13.0,45.52345,-122.67621
+429,Maine coon,female,True,black,solid,yellow,FALSE,wet,USA,5.0,68.0,4.23,16.0,16.0,41.881832,-87.623177
+430,Maine coon,male,True,red/cream,tabby,yellow,TRUE,wet,USA,5.0,77.0,10.6,22.0,13.0,40.71427,-74.00597
+431,Maine coon,male,False,brown/chocolate,solid,yellow,FALSE,dry,USA,5.0,72.0,8.1,11.0,13.0,45.52345,-122.67621
+432,Maine coon,female,True,black,solid,yellow,FALSE,dry,USA,5.08,49.0,8.26,34.0,13.0,47.60621,-122.33207
+433,Maine coon,male,True,black,solid,yellow,FALSE,dry,USA,5.08,85.0,9.8,23.0,13.0,40.71427,-74.00597
+434,Maine coon,female,True,black,solid,yellow,FALSE,wet,USA,5.17,72.0,5.31,24.0,13.0,40.71427,-74.00597
+435,Maine coon,male,False,black,solid,yellow,FALSE,wet,USA,5.17,83.0,10.5,37.0,17.0,47.60621,-122.33207
+436,My coon,female,True,black,solid,yellow,FALSE,wet,USA,5.17,42.0,6.11,30.0,13.0,40.71427,-74.00597
+437,My coon,male,True,red/cream,solid,yellow,FALSE,wet,USA,5.17,68.0,9.7,9.0,16.0,39.29038,-76.61219
+438,My coon,male,True,brown/chocolate,solid,yellow,TRUE,dry,USA,5.25,88.0,8.8,4.0,13.0,37.77493,-122.41942
+439,My coon,female,True,black,solid,yellow,FALSE,dry,USA,5.25,51.0,7.89,29.0,13.0,38.89511,-77.03637
+440,My coon,female,True,brown/chocolate,solid,yellow,FALSE,wet,Canada,5.25,53.0,3.76,18.0,13.0,45.508888,-73.561668
+441,My coon,male,False,black,solid,yellow,FALSE,dry,Canada,5.25,79.0,11.6,11.0,13.0,49.246292,-123.116226
+442,Maine coon,female,False,black,bicolor,yellow,FALSE,wet,Canada,5.33,64.0,6.67,24.0,13.0,51.049999,-114.066666
+443,Maine coon,female,True,black,solid,yellow,TRUE,wet,Canada,5.33,53.0,7.1,18.0,16.0,51.049999,-114.066666
+444,Maine coon,female,True,brown/chocolate,tabby,yellow,FALSE,wet,Canada,5.42,57.0,8.18,14.0,16.0,43.65107,-79.347015
+445,Maine coon,male,False,red/cream,tabby,yellow,FALSE,wet,Canada,5.42,66.0,7.5,10.0,13.0,49.246292,-123.116226
+446,Ragdoll,male,True,black,solid,yellow,FALSE,dry,Canada,5.42,51.0,9.2,18.0,13.0,43.65107,-79.347015
+447,Ragdoll,male,True,seal,solid,blue,FALSE,wet,Canada,5.5,43.903435468895076,5.740900649953575,23.17652495378928,13.0,51.049999,-114.066666
+448,Ragdoll,male,True,black,solid,yellow,FALSE,dry,Canada,5.5,57.0,10.0,34.0,13.0,43.65107,-79.347015
+449,Ragdoll,male,False,red/cream,tabby,green,FALSE,wet,Canada,5.58,68.0,10.2,36.0,16.0,49.246292,-123.116226
+450,Ragdoll,female,True,black,solid,green,FALSE,wet,Canada,5.58,73.0,7.6,27.0,13.0,49.246292,-123.116226
+451,Maine coon,female,True,black,solid,yellow,FALSE,wet,Canada,5.58,73.0,6.15,35.0,13.0,51.049999,-114.066666
+452,Maine coon,female,False,white,solid,blue,FALSE,wet,Canada,5.58,39.0,4.76,10.0,17.0,43.65107,-79.347015
+453,My coon,female,False,black,tortie,yellow,FALSE,wet,Canada,5.58,70.0,4.6,18.0,13.0,45.508888,-73.561668
+454,My coon,female,True,black,solid,yellow,FALSE,dry,Canada,5.67,71.0,5.2,18.0,13.0,51.049999,-114.066666
+455,My coon,female,False,black,solid,green,FALSE,wet,Canada,5.67,56.0,5.8,31.0,13.0,45.508888,-73.561668
+456,My coon,male,True,brown/chocolate,tabby,yellow,FALSE,dry,Canada,5.67,83.0,8.1,28.0,13.0,49.246292,-123.116226
+457,My coon,male,False,red/cream,tabby,yellow,FALSE,dry,Canada,5.67,80.0,9.6,13.0,17.0,45.42153,-75.697193
+458,Maine coon,female,True,brown/chocolate,tortie,green,FALSE,wet,Canada,5.75,43.0,7.65,36.0,16.0,43.65107,-79.347015
+459,Maine coon,female,True,white,solid,blue,FALSE,wet,Canada,5.75,39.0,6.29,30.0,13.0,51.049999,-114.066666
+460,Maine coon,male,True,black,solid,yellow,TRUE,dry,USA,5.75,51.0,8.9,14.0,13.0,41.881832,-87.623177
+461,Maine coon,female,False,black,tortie,yellow,FALSE,dry,USA,5.75,68.0,5.58,15.0,16.0,39.29038,-76.61219
+462,Maine coon,female,True,white,solid,yellow,TRUE,wet,USA,5.75,51.0,5.91,13.0,13.0,45.52345,-122.67621
+463,Maine loon,male,True,black,solid,yellow,TRUE,wet,USA,5.83,51.0,7.9,21.0,13.0,40.71427,-74.00597
+464,Maine coon,male,False,red/cream,tabby,yellow,FALSE,wet,USA,5.92,76.0,10.4,28.0,15.898305084745763,44.55089761612283,-59.517622809021105
+465,Maine loon,female,True,black,solid,yellow,FALSE,wet,USA,-5.916666667,43.0,5.59,18.0,15.898305084745763,44.55089761612283,-59.517622809021105
+466,Maine coon,male,True,red/cream,tabby,yellow,FALSE,dry,USA,-5.916666667,56.0,7.0,30.0,15.898305084745763,44.55089761612283,-59.517622809021105
+467,Maine coon,female,True,black,solid,yellow,FALSE,wet,USA,-6.0,59.0,7.56,20.0,15.898305084745763,44.55089761612283,-59.517622809021105
+468,Maine coon,male,False,black,solid,green,FALSE,wet,USA,-6.0,83.0,10.0,10.0,15.898305084745763,44.55089761612283,-59.517622809021105
+469,Maine coon,male,False,brown/chocolate,tabby,green,FALSE,wet,USA,-6.083333333,72.0,9.3,35.0,15.898305084745763,44.55089761612283,-59.517622809021105
+470,Maine coon,male,True,black,solid,yellow,TRUE,wet,USA,-6.166666667,58.0,9.1,20.0,15.898305084745763,44.55089761612283,-59.517622809021105
+471,Maine coon,male,False,black,solid,yellow,FALSE,dry,USA,-6.166666667,55.0,5.0,31.0,15.898305084745763,44.55089761612283,-59.517622809021105
+472,Maine coon,male,False,black,bicolor,yellow,FALSE,wet,USA,6.17,87.0,11.5,30.0,15.898305084745763,44.55089761612283,-59.517622809021105
+473,Maine coon,male,True,brown/chocolate,solid,yellow,FALSE,dry,USA,6.17,45.0,3.65,22.0,15.898305084745763,44.55089761612283,-59.517622809021105
+474,Maine coon,male,False,brown/chocolate,tabby,yellow,FALSE,dry,USA,6.25,87.0,8.3,36.0,15.898305084745763,44.55089761612283,-59.517622809021105
+475,Maine coon,male,False,brown/chocolate,tabby,yellow,FALSE,dry,USA,6.25,54.0,4.13,36.0,13.0,40.71427,-74.00597
+476,Maine coon,male,True,red/cream,tabby,yellow,FALSE,wet,USA,6.25,56.0,8.2,23.0,13.0,38.89511,-77.03637
+477,Maine coon,male,True,red/cream,tabby,yellow,FALSE,wet,USA,6.25,60.0,9.9,10.0,17.0,47.60621,-122.33207
+478,Maine coon,male,True,white,solid,blue,FALSE,wet,Germany,6.25,73.0,11.2,21.0,13.0,52.520008,13.404954
+479,Maine coon,female,True,black,solid,yellow,TRUE,wet,USA,6.33,41.0,6.92,27.0,13.0,47.60621,-122.33207
+480,Maine coon,female,True,brown/chocolate,tabby,yellow,FALSE,dry,USA,6.33,42.0,8.13,19.0,16.0,38.89511,-77.03637
+481,My coon,female,True,brown/chocolate,tabby,green,FALSE,wet,USA,6.33,41.0,4.2,17.0,13.0,38.89511,-77.03637
+482,Maine coon,female,False,black,solid,yellow,FALSE,dry,USA,6.33,62.0,8.31,9.0,13.0,40.71427,-74.00597
+483,Maine coon,male,False,brown/chocolate,tabby,yellow,FALSE,wet,USA,6.42,70.0,8.1,27.0,13.0,39.29038,-76.61219
+484,Maine coon,male,True,brown/chocolate,tabby,yellow,FALSE,wet,USA,6.42,66.0,11.3,33.0,13.0,39.29038,-76.61219
+485,Maine coon,female,False,black,solid,yellow,FALSE,wet,USA,6.42,63.0,6.84,13.0,16.0,42.35843,-71.05977
+486,Maine coon,male,False,brown/chocolate,tabby,yellow,FALSE,wet,USA,6.5,84.0,11.3,11.0,13.0,37.77493,-122.41942
+487,Maine coon,male,True,black,solid,green,TRUE,dry,USA,6.67,59.0,8.4,27.0,17.0,40.71427,-74.00597
+488,Maine coon,male,True,black,solid,yellow,FALSE,wet,USA,6.67,76.0,9.4,36.0,17.0,42.35843,-71.05977
+489,Maine coon,male,False,red/cream,tabby,yellow,FALSE,dry,USA,6.67,84.0,10.2,33.0,17.0,40.71427,-74.00597
+490,My coon,male,True,black,solid,yellow,FALSE,wet,USA,6.75,51.0,8.7,13.0,13.0,45.52345,-122.67621
+491,Maine coon,male,True,brown/chocolate,tabby,yellow,FALSE,wet,USA,6.75,75.0,11.7,18.0,13.0,37.77493,-122.41942
+492,Maine coon,male,True,white,solid,yellow,TRUE,wet,USA,6.75,56.0,9.7,18.0,17.0,41.881832,-87.623177
+493,Maine coon,female,False,brown/chocolate,tabby,yellow,FALSE,dry,Germany,6.83,76.0,7.24,35.0,16.0,48.137154,11.576124
+494,Maine coon,female,True,brown/chocolate,tortie,yellow,FALSE,wet,Germany,6.83,63.0,7.82,18.0,16.0,48.137154,11.576124
+495,Maine coon,male,True,black,solid,yellow,FALSE,wet,Germany,6.83,78.0,8.7,9.0,13.0,48.137154,11.576124
+496,Maine coon,male,True,brown/chocolate,tabby,green,TRUE,dry,Germany,6.83,78.0,7.5,9.0,16.0,52.520008,13.404954
+497,Maine coon,female,False,black,solid,yellow,FALSE,dry,Germany,6.83,49.0,8.41,34.0,13.0,48.137154,11.576124
+498,Maine coon,female,True,white,solid,yellow,FALSE,wet,Germany,6.83,37.0,6.98,34.0,13.0,51.227741,6.773456
+499,Maine coon,male,True,red/cream,tabby,yellow,FALSE,wet,Germany,6.92,48.0,6.2,23.0,17.0,51.227741,6.773456
+500,Maine coon,male,True,black,solid,yellow,FALSE,wet,Germany,6.92,59.0,9.8,36.0,17.0,51.227741,6.773456
+501,Maine coon,male,False,black,solid,yellow,FALSE,wet,Germany,6.92,75.0,9.3,25.0,16.0,52.520008,13.404954
+502,Maine coon,male,False,red/cream,tabby,yellow,FALSE,wet,Germany,6.92,78.0,8.8,29.0,13.0,50.110924,8.682127
+503,Maine coon,male,True,black,solid,yellow,TRUE,wet,Germany,7.0,42.0,3.99,21.0,13.0,50.110924,8.682127
+504,Maine coon,male,False,black,solid,yellow,FALSE,wet,USA,7.0,88.0,10.1,40.0,16.0,37.77493,-122.41942
+505,Maine loon,male,True,red/cream,tabby,yellow,FALSE,wet,Germany,7.0,78.0,11.0,29.0,13.0,50.110924,8.682127
+506,Maine coon,male,True,black,solid,yellow,FALSE,dry,USA,7.0,41.0,8.23,25.0,13.0,40.71427,-74.00597
+507,Maine coon,male,False,black,tortie,yellow,FALSE,wet,USA,7.0,52.0,7.96,30.0,13.0,39.29038,-76.61219
+508,Maine coon,male,True,brown/chocolate,solid,yellow,FALSE,wet,USA,7.08,65.0,6.7,26.0,17.0,40.71427,-74.00597
+509,Maine coon,female,True,black,solid,yellow,TRUE,wet,USA,7.08,80.0,5.62,11.0,19.0,45.52345,-122.67621
+510,My coon,male,True,red/cream,tabby,yellow,FALSE,wet,USA,7.17,78.0,11.0,39.0,16.0,39.29038,-76.61219
+511,Maine coon,male,True,brown/chocolate,tabby,yellow,FALSE,wet,USA,7.17,65.0,8.7,11.0,19.0,42.35843,-71.05977
+512,Maine coon,male,True,black,solid,yellow,TRUE,wet,USA,7.17,62.0,7.0,9.0,17.0,42.35843,-71.05977
+513,Maine coon,male,True,black,solid,yellow,FALSE,dry,USA,7.17,73.0,8.0,9.0,17.0,37.77493,-122.41942
+514,Maine coon,female,True,black,solid,yellow,FALSE,dry,USA,7.17,48.0,7.3,37.0,19.0,37.77493,-122.41942
+515,My coon,female,False,black,solid,yellow,FALSE,wet,USA,7.17,49.0,7.0,27.0,19.0,42.35843,-71.05977
+516,My coon,female,True,red/cream,solid,yellow,FALSE,dry,USA,7.25,49.0,6.43,37.0,17.0,42.35843,-71.05977
+517,Maine coon,female,True,black,solid,green,TRUE,wet,USA,7.25,72.0,5.28,23.0,19.0,38.89511,-77.03637
+518,Maine coon,female,False,brown/chocolate,tabby,yellow,FALSE,wet,USA,7.25,73.0,8.14,17.0,21.0,42.35843,-71.05977
+519,Maine coon,male,True,red/cream,tabby,yellow,FALSE,wet,USA,7.25,69.0,10.4,37.0,19.0,40.71427,-74.00597
+520,Maine coon,male,True,brown/chocolate,tabby,yellow,FALSE,dry,USA,7.25,67.0,8.5,20.0,17.0,42.35843,-71.05977
+521,Maine coon,male,True,brown/chocolate,tabby,yellow,TRUE,wet,USA,7.42,77.0,11.3,12.0,17.0,42.35843,-71.05977
+522,Maine coon,male,True,black,solid,yellow,FALSE,wet,USA,7.42,52.0,9.0,9.0,16.0,42.35843,-71.05977
+523,Maine coon,male,True,brown/chocolate,solid,yellow,FALSE,dry,USA,7.42,89.0,10.5,10.0,19.0,42.35843,-71.05977
+524,Maine coon,male,False,black,solid,green,FALSE,wet,USA,7.5,79.0,8.1,21.0,13.0,40.71427,-74.00597
+525,Maine loon,female,False,brown/chocolate,tabby,yellow,FALSE,wet,USA,7.5,65.0,7.86,34.0,19.0,38.89511,-77.03637
+526,Maine coon,female,True,black,solid,yellow,FALSE,wet,USA,7.5,51.0,7.86,36.0,21.0,37.77493,-122.41942
+527,Maine coon,male,True,black,solid,yellow,TRUE,wet,USA,7.5,48.0,8.2,27.0,16.0,40.71427,-74.00597
+528,Maine coon,male,False,black,solid,yellow,FALSE,dry,USA,7.58,85.0,7.9,35.0,16.0,47.60621,-122.33207
+529,Maine coon,male,False,black,solid,yellow,FALSE,dry,USA,7.58,85.0,7.4,37.0,17.0,39.29038,-76.61219
+530,Maine coon,female,False,black,bicolor,green,FALSE,wet,USA,7.67,34.0,3.61,32.0,13.0,38.89511,-77.03637
+531,Maine coon,male,False,black,solid,green,FALSE,wet,USA,7.67,79.0,11.3,19.0,16.0,42.35843,-71.05977
+532,My coon,male,True,black,solid,yellow,FALSE,wet,USA,7.67,102.0,10.1,16.0,13.0,47.60621,-122.33207
+533,Maine coon,female,False,brown/chocolate,tabby,green,FALSE,dry,USA,7.83,77.0,5.84,23.0,18.0,42.35843,-71.05977
+534,Maine coon,male,True,black,solid,yellow,FALSE,wet,USA,7.83,56.0,11.1,12.0,16.0,37.77493,-122.41942
+535,Maine coon,male,False,black,solid,yellow,FALSE,wet,USA,7.92,75.0,9.5,35.0,19.0,40.71427,-74.00597
+536,Maine coon,male,True,red/cream,tabby,yellow,FALSE,wet,USA,7.92,81.0,7.3,17.0,20.0,39.29038,-76.61219
+537,Maine coon,male,False,brown/chocolate,tabby,yellow,FALSE,wet,USA,7.92,81.0,7.6,11.0,13.0,41.881832,-87.623177
+538,Maine coon,male,True,black,solid,yellow,TRUE,dry,USA,8.0,97.0,10.9,11.0,20.0,45.52345,-122.67621
+539,Maine coon,female,True,black,solid,yellow,FALSE,wet,USA,8.17,40.0,5.45,29.0,17.0,39.29038,-76.61219
+540,Maine coon,female,False,black,tortie,yellow,FALSE,wet,USA,4.0,74.0,5.3,11.0,13.0,39.29038,-76.61219
+541,Maine loon,male,True,black,solid,yellow,FALSE,wet,USA,8.25,79.0,10.4,29.0,20.0,40.71427,-74.00597
+542,Maine coon,female,False,black,solid,yellow,FALSE,wet,USA,8.33,62.0,5.49,10.0,18.0,37.77493,-122.41942
+543,Maine coon,female,True,white,solid,blue,FALSE,wet,USA,7.67,39.0,7.98,37.0,21.0,45.52345,-122.67621
+544,Maine coon,female,False,brown/chocolate,tabby,yellow,FALSE,wet,USA,8.33,57.0,8.3,11.0,18.0,47.60621,-122.33207
+545,Maine coon,female,True,red/cream,bicolor,yellow,FALSE,wet,USA,8.42,65.0,7.79,15.0,19.0,37.77493,-122.41942
+546,Maine coon,female,False,black,solid,yellow,FALSE,wet,USA,7.58,80.0,7.9,38.0,18.0,42.35843,-71.05977
+547,Maine coon,male,True,black,solid,green,FALSE,dry,USA,8.5,67.0,10.9,20.0,20.0,42.35843,-71.05977
+548,Maine coon,female,True,black,solid,yellow,TRUE,wet,USA,6.17,56.0,3.9,27.0,13.0,42.35843,-71.05977
+549,Maine coon,female,True,black,solid,green,FALSE,wet,USA,8.58,71.0,7.05,29.0,18.0,47.60621,-122.33207
+550,Maine coon,male,False,red/cream,tabby,green,FALSE,wet,USA,8.58,85.0,9.2,31.0,20.0,40.71427,-74.00597
+551,Maine coon,male,False,red/cream,bicolor,yellow,FALSE,wet,USA,8.58,86.0,10.0,35.0,19.0,40.71427,-74.00597
+552,Maine coon,female,True,red/cream,solid,yellow,FALSE,dry,USA,6.42,38.0,7.82,17.0,16.0,42.35843,-71.05977
+553,Maine coon,male,True,black,solid,yellow,FALSE,dry,USA,7.83,68.0,11.6,26.0,21.0,42.35843,-71.05977
+554,Maine coon,female,True,brown/chocolate,bicolor,yellow,FALSE,wet,USA,5.42,48.0,4.15,36.0,13.0,37.77493,-122.41942
+555,Maine coon,female,False,black,solid,yellow,FALSE,dry,USA,8.67,54.0,7.99,27.0,21.0,37.77493,-122.41942
+556,Maine coon,female,True,black,solid,yellow,FALSE,wet,USA,5.58,65.0,5.16,13.0,13.0,45.52345,-122.67621
+557,Maine coon,female,False,black,solid,green,FALSE,wet,USA,6.42,66.0,5.0,10.0,13.0,38.89511,-77.03637
+558,Maine coon,female,False,black,solid,yellow,FALSE,wet,USA,8.75,55.0,7.35,13.0,17.0,39.29038,-76.61219
+559,Maine coon,female,True,black,solid,yellow,TRUE,dry,USA,5.0,64.0,5.23,37.0,13.0,38.89511,-77.03637
+560,Maine loon,female,True,black,solid,yellow,FALSE,dry,USA,7.42,42.0,7.27,12.0,17.0,42.35843,-71.05977
+561,Maine coon,female,True,black,solid,yellow,FALSE,wet,USA,8.92,59.0,7.75,18.0,20.0,40.71427,-74.00597
+562,Maine coon,female,False,black,solid,yellow,FALSE,dry,USA,8.92,75.0,6.0,27.0,16.0,42.35843,-71.05977
+563,Maine coon,female,True,brown/chocolate,tortie,yellow,FALSE,wet,USA,4.83,42.0,5.12,36.0,13.0,38.89511,-77.03637
+564,Maine coon,female,False,black,solid,green,FALSE,wet,USA,7.33,79.0,8.5,12.0,17.0,40.71427,-74.00597
+565,Maine coon,female,True,brown/chocolate,tabby,yellow,FALSE,wet,USA,8.92,36.0,5.77,5.0,16.0,40.71427,-74.00597
+566,Maine coon,female,True,black,solid,yellow,TRUE,wet,USA,8.92,46.0,8.07,16.0,20.0,41.881832,-87.623177
+567,Ragdoll,female,True,white,solid,yellow,FALSE,wet,USA,8.92,36.0,6.95,26.0,19.0,40.71427,-74.00597
+568,Ragdoll,male,False,brown/chocolate,tabby,yellow,FALSE,wet,USA,7.58,65.0,9.7,39.0,20.0,40.71427,-74.00597
+569,Ragdoll,female,True,brown/chocolate,tabby,yellow,FALSE,dry,USA,9.0,64.0,6.93,34.0,20.0,40.71427,-74.00597
+570,Ragdoll,male,True,black,solid,yellow,FALSE,wet,USA,9.0,83.0,11.3,15.0,21.0,42.35843,-71.05977
+571,Ragdoll,male,True,red/cream,solid,yellow,FALSE,wet,USA,9.0,83.0,11.6,37.0,20.0,47.60621,-122.33207
+572,Ragdoll,male,True,red/cream,solid,yellow,TRUE,dry,USA,9.0,75.0,9.7,12.0,19.0,40.71427,-74.00597
+573,Maine coon,male,False,black,solid,yellow,FALSE,wet,USA,9.08,60.0,8.3,13.0,20.0,40.71427,-74.00597
+574,Maine coon,male,False,black,solid,yellow,FALSE,dry,USA,9.08,61.0,7.9,18.0,19.0,39.29038,-76.61219
+575,Maine coon,male,True,black,solid,yellow,FALSE,wet,USA,9.17,88.0,10.5,10.0,19.0,40.71427,-74.00597
+576,Maine coon,female,False,black,solid,yellow,FALSE,wet,USA,8.5,70.0,6.01,37.0,21.0,38.89511,-77.03637
+577,Maine loon,male,True,red/cream,solid,yellow,FALSE,wet,USA,9.25,66.0,11.3,12.0,19.0,42.35843,-71.05977
+578,Maine coon,male,True,black,solid,yellow,FALSE,wet,USA,9.25,69.0,9.5,25.0,19.0,40.71427,-74.00597
+579,Maine coon,male,True,black,solid,yellow,FALSE,wet,USA,8.17,52.0,8.7,23.0,20.0,42.35843,-71.05977
+580,Maine coon,male,True,black,solid,yellow,FALSE,wet,USA,9.33,65.0,6.2,21.0,21.0,38.89511,-77.03637
+581,Maine coon,female,True,black,solid,yellow,FALSE,wet,USA,9.33,64.0,5.18,45.0,18.0,39.29038,-76.61219
+582,Maine coon,female,True,brown/chocolate,tabby,yellow,TRUE,wet,USA,9.42,49.0,6.45,23.0,16.0,47.60621,-122.33207
+583,Maine coon,female,False,black,solid,yellow,FALSE,wet,USA,4.92,78.0,5.1,21.0,13.0,40.71427,-74.00597
+584,maine coon,male,False,black,bicolor,yellow,FALSE,wet,USA,9.42,69.0,8.7,31.0,19.0,38.89511,-77.03637
+585,Maine coon,male,False,black,solid,yellow,FALSE,dry,USA,8.17,67.0,7.0,22.0,20.0,44.55089761612283,-59.517622809021105
+586,Maine coon,female,False,black,tortie,yellow,FALSE,wet,USA,6.5,51.0,5.3,11.0,13.0,44.55089761612283,-59.517622809021105
+587,Maine coon,male,True,black,solid,yellow,FALSE,dry,USA,9.5,87.0,7.3,16.0,20.0,44.55089761612283,-59.517622809021105
+588,Maine coon,female,True,black,solid,yellow,FALSE,wet,USA,9.5,46.0,8.34,24.0,17.0,44.55089761612283,-59.517622809021105
+589,Maine coon,female,True,brown/chocolate,tabby,yellow,FALSE,wet,USA,9.58,76.0,7.11,15.0,20.0,44.55089761612283,-59.517622809021105
+590,maine coon,male,True,red/cream,tabby,yellow,FALSE,dry,USA,7.67,55.0,8.4,18.0,21.0,44.55089761612283,-59.517622809021105
+591,Maine coon,female,False,black,solid,yellow,FALSE,wet,USA,4.92,48.0,4.86,16.0,16.0,44.55089761612283,-59.517622809021105
+592,Maine coon,male,True,black,bicolor,yellow,FALSE,dry,USA,9.58,78.0,12.1,10.0,19.0,44.55089761612283,-59.517622809021105
+593,Maine coon,female,False,brown/chocolate,tabby,yellow,FALSE,dry,USA,9.67,65.0,6.61,23.0,21.0,44.55089761612283,-59.517622809021105
+594,Maine coon,male,True,black,solid,yellow,FALSE,wet,USA,7.58,59.0,8.1,38.0,18.0,44.55089761612283,-59.517622809021105
+595,Maine coon,female,False,black,solid,yellow,FALSE,dry,USA,9.67,54.0,8.13,11.0,21.0,44.55089761612283,-59.517622809021105
+596,Maine coon,male,True,brown/chocolate,tabby,yellow,TRUE,dry,USA,9.75,74.0,7.4,16.0,18.0,44.55089761612283,-59.517622809021105
+597,maine coon,male,True,black,solid,yellow,FALSE,dry,USA,7.0,63.0,8.9,17.0,16.0,44.55089761612283,-59.517622809021105
+598,Maine coon,female,False,white,solid,blue,FALSE,dry,USA,4.08,37.0,3.51,17.0,16.0,44.55089761612283,-59.517622809021105
+599,Maine coon,male,True,black,solid,yellow,FALSE,wet,USA,6.5,70.0,10.9,19.0,13.0,44.55089761612283,-59.517622809021105
+600,Maine coon,female,False,black,tortie,yellow,FALSE,dry,USA,9.83,76.0,8.58,28.0,19.0,44.55089761612283,-59.517622809021105
+601,Maine coon,female,False,brown/chocolate,tabby,green,FALSE,wet,USA,9.83,72.0,7.57,17.0,19.0,44.55089761612283,-59.517622809021105
+602,Maine coon,male,True,red/cream,tabby,yellow,FALSE,wet,USA,7.17,48.0,7.8,27.0,17.0,44.55089761612283,-59.517622809021105
+603,maine coon,female,True,black,solid,yellow,FALSE,dry,USA,10.25,60.0,8.22,9.0,21.0,44.55089761612283,-59.517622809021105
+604,Maine coon,female,True,black,solid,yellow,FALSE,wet,USA,6.33,65.0,5.4,25.0,13.0,44.55089761612283,-59.517622809021105
+605,Maine coon,female,False,black,tortie,yellow,FALSE,dry,USA,10.0,53.0,6.5,14.0,17.0,44.55089761612283,-59.517622809021105
+606,ragdoll,female,True,red/cream,bicolor,blue,FALSE,wet,USA,0.25,21.0,3.1,60.0,10.0,44.55089761612283,-59.517622809021105
+607,Ragdoll,male,False,red/cream,colorpoint,blue,FALSE,dry,USA,0.33,21.0,3.0,21.0,16.0,44.55089761612283,-59.517622809021105
+608,Ragdoll,female,False,seal,tortie,green,FALSE,wet,USA,0.33,21.0,3.0,31.0,16.0,44.55089761612283,-59.517622809021105
+609,ragdoll,male,False,seal,colorpoint,blue,FALSE,wet,USA,0.33,21.0,3.0,16.0,17.0,44.55089761612283,-59.517622809021105
+610,ragdoll,female,False,red/cream,bicolor,blue,FALSE,dry,USA,0.33,21.0,3.3,14.0,16.0,44.55089761612283,-59.517622809021105
+611,Ragdoll,female,True,seal,colorpoint,green,FALSE,dry,USA,0.33,22.0,3.2,16.0,20.0,44.55089761612283,-59.517622809021105
+612,Ragdoll,female,False,seal,colorpoint,blue,FALSE,wet,USA,0.33,22.0,3.2,46.0,15.0,44.55089761612283,-59.517622809021105
+613,Ragdoll,male,False,seal,colorpoint,blue,FALSE,wet,USA,0.33,22.0,3.2,48.0,21.0,44.55089761612283,-59.517622809021105
+614,Ragdoll,female,False,seal,bicolor,green,FALSE,wet,USA,0.42,22.0,3.2,27.0,13.0,44.55089761612283,-59.517622809021105
+615,Ragdoll,male,False,red/cream,bicolor,blue,FALSE,wet,UK,0.42,22.0,3.2,29.0,13.0,53.408371,-2.991573
+616,Ragdoll,male,False,red/cream,colorpoint,blue,FALSE,wet,UK,0.42,23.0,3.5,49.0,11.0,53.480759,-2.242631
+617,Ragdoll,male,False,red/cream,bicolor,blue,FALSE,wet,UK,6.5,26.0,4.2,42.0,13.0,51.507351,-0.127758
+618,Ragdoll,female,False,red/cream,bicolor,blue,FALSE,wet,UK,0.42,26.0,3.7,28.0,12.0,53.800755,-1.549077
+619,Ragdoll,female,False,seal,colorpoint,blue,FALSE,wet,UK,6.67,26.0,4.0,27.0,16.0,53.408371,-2.991573
+620,Ragdoll,male,False,seal,colorpoint,blue,FALSE,wet,UK,3.25,25.0,4.3,18.0,13.0,53.800755,-1.549077
+621,Ragdoll,female,True,seal,colorpoint,green,FALSE,wet,USA,0.42,21.0,3.9,23.17652495378928,15.898305084745763,51.507351,-0.127758
+622,Ragdoll,female,False,seal,colorpoint,green,FALSE,wet,USA,4.0,27.0,4.4,23.17652495378928,15.898305084745763,53.408371,-2.991573
+623,Ragdoll,female,False,seal,colorpoint,blue,FALSE,wet,UK,0.5,25.0,3.8,18.0,15.0,51.507351,-0.127758
+624,Ragdoll,male,False,seal,colorpoint,blue,FALSE,wet,UK,3.42,30.0,4.8,31.0,13.0,52.486244,-1.890401
+625,Ragdoll,male,False,red/cream,bicolor,blue,FALSE,wet,UK,3.0,26.0,4.9,20.0,16.0,52.486244,-1.890401
+626,Ragdoll,male,False,red/cream,colorpoint,green,FALSE,wet,UK,1.08,29.0,4.0,46.0,16.0,53.408371,-2.991573
+627,Ragdoll,female,False,seal,tortie,blue,FALSE,wet,UK,6.5,26.0,4.1,22.0,13.0,51.507351,-0.127758
+628,Ragdoll,male,False,seal,colorpoint,blue,FALSE,wet,USA,2.92,29.0,5.0,21.0,16.0,40.71427,-74.00597
+629,Ragdoll,male,False,red/cream,colorpoint,blue,FALSE,wet,USA,1.5,30.0,5.3,11.0,17.0,38.89511,-77.03637
+630,Ragdoll,male,False,red/cream,bicolor,amber,FALSE,wet,Germany,0.5,30.0,4.2,43.0,11.0,48.137154,11.576124
+631,Ragdoll,female,False,lilac,bicolor,green,FALSE,wet,Germany,6.92,22.0,4.0,34.0,13.0,52.520008,13.404954
+632,Ragdoll,female,False,brown/chocolate,colorpoint,green,FALSE,wet,Germany,0.58,20.0,4.3,28.0,14.0,52.520008,13.404954
+633,ragdoll,female,False,seal,colorpoint,blue,FALSE,wet,Germany,3.42,22.0,4.4,14.0,16.0,52.520008,13.404954
+634,ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,Germany,0.58,21.0,3.9,21.0,12.0,50.110924,8.682127
+635,Ragdoll,female,False,brown/chocolate,colorpoint,blue,FALSE,wet,Germany,0.58,24.0,3.7,17.0,13.0,50.110924,8.682127
+636,Ragdoll,male,False,seal,bicolor,blue,FALSE,wet,Germany,4.67,26.0,4.5,37.0,13.0,50.110924,8.682127
+637,Ragdoll,female,False,seal,colorpoint,blue,FALSE,dry,Germany,1.33,28.0,4.4,36.0,19.0,48.137154,11.576124
+638,Ragdoll,female,True,seal,colorpoint,green,FALSE,wet,Germany,0.67,23.0,3.8,26.0,21.0,51.227741,6.773456
+639,Ragdoll,female,True,seal,colorpoint,green,FALSE,wet,Germany,0.67,22.0,3.8,38.0,17.0,48.137154,11.576124
+640,rack doll,female,True,brown/chocolate,colorpoint,blue,FALSE,wet,Germany,0.67,21.0,3.7,47.0,16.0,48.137154,11.576124
+641,Ragdoll,male,True,red/cream,bicolor,blue,FALSE,wet,Germany,0.67,31.0,4.3,56.0,20.0,50.110924,8.682127
+642,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,Germany,0.75,25.0,3.8,32.0,19.0,51.227741,6.773456
+643,Ragdoll,male,True,brown/chocolate,colorpoint,blue,FALSE,wet,Germany,3.08,25.0,4.5,19.0,16.0,52.520008,13.404954
+644,Ragdoll,female,True,seal,bicolor,green,FALSE,dry,Germany,1.67,22.0,4.3,45.0,19.0,48.137154,11.576124
+645,rack doll,female,True,seal,colorpoint,blue,FALSE,dry,Germany,0.83,26.0,3.5,53.0,20.0,50.110924,8.682127
+646,Ragdoll,female,True,seal,tortie,blue,FALSE,wet,Germany,0.83,24.0,3.9,42.0,20.0,52.520008,13.404954
+647,Ragdoll,female,False,seal,colorpoint,blue,FALSE,dry,USA,1.42,21.0,4.3,30.0,19.0,37.77493,-122.41942
+648,Ragdoll,female,False,seal,colorpoint,blue,FALSE,wet,USA,1.0,28.0,4.4,16.0,18.0,40.71427,-74.00597
+649,Ragdoll,female,False,seal,tortie,blue,FALSE,wet,USA,4.08,26.0,4.3,9.0,17.0,38.89511,-77.03637
+650,Ragdoll,male,True,brown/chocolate,colorpoint,blue,TRUE,dry,USA,-1.0,31.0,4.4,17.0,15.0,38.89511,-77.03637
+651,Ragdoll,female,False,seal,colorpoint,blue,FALSE,dry,USA,-1.0,26.0,3.9,11.0,17.0,38.89511,-77.03637
+652,Ragdoll,female,False,seal,colorpoint,blue,FALSE,wet,USA,-1.0,26.0,4.0,17.0,19.0,47.60621,-122.33207
+653,Ragdoll,male,True,red/cream,bicolor,green,FALSE,wet,USA,-4.25,28.0,4.8,14.0,13.0,45.52345,-122.67621
+654,Ragdoll,female,True,seal,bicolor,blue,FALSE,wet,USA,-1.083333333,21.0,3.8,22.0,20.0,47.60621,-122.33207
+655,ragdoll,female,True,brown/chocolate,colorpoint,blue,FALSE,wet,USA,-1.166666667,24.0,3.9,34.0,21.0,47.60621,-122.33207
+656,Ragdoll,male,True,brown/chocolate,colorpoint,blue,FALSE,dry,USA,4.75,27.0,4.7,16.0,13.0,40.71427,-74.00597
+657,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,1.17,26.0,4.1,38.0,18.0,41.881832,-87.623177
+658,Ragdoll,female,False,brown/chocolate,colorpoint,blue,FALSE,dry,Canada,1.17,22.0,3.8,4.0,20.0,45.508888,-73.561668
+659,Ragdoll,female,True,seal,colorpoint,green,FALSE,dry,Canada,1.17,20.0,4.3,30.0,15.0,45.42153,-75.697193
+660,Ragdoll,female,True,seal,tortie,blue,FALSE,dry,Canada,1.25,26.0,3.8,27.0,18.0,45.42153,-75.697193
+661,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,Canada,1.25,21.0,3.5,34.0,17.0,45.508888,-73.561668
+662,Ragdoll,female,True,seal,colorpoint,blue,FALSE,dry,Canada,1.25,27.0,3.8,19.0,20.0,49.246292,-123.116226
+663,Ragdoll,male,True,brown/chocolate,colorpoint,blue,FALSE,dry,Canada,1.25,25.0,4.7,22.0,18.0,51.049999,-114.066666
+664,Ragdoll,female,True,seal,colorpoint,blue,TRUE,wet,Canada,1.33,27.0,3.6,38.0,16.0,51.049999,-114.066666
+665,Ragdoll,female,True,brown/chocolate,colorpoint,blue,FALSE,dry,Canada,1.42,21.0,3.8,29.0,21.0,45.508888,-73.561668
+666,Ragdoll,female,True,seal,bicolor,blue,FALSE,wet,Canada,1.42,28.0,4.2,19.0,21.0,51.049999,-114.066666
+667,Ragdoll,female,True,seal,bicolor,blue,FALSE,dry,Canada,1.42,27.0,4.1,36.0,19.0,43.65107,-79.347015
+668,Ragdoll,male,False,brown/chocolate,colorpoint,blue,FALSE,dry,UK,1.5,29.0,5.1,3.0,18.0,53.800755,-1.549077
+669,Ragdoll,female,True,seal,colorpoint,blue,FALSE,dry,UK,1.5,23.0,3.9,4.0,20.0,53.800755,-1.549077
+670,Ragdoll,male,True,brown/chocolate,colorpoint,blue,FALSE,dry,UK,1.5,28.0,4.1,37.0,17.0,53.408371,-2.991573
+671,Ragdoll,male,False,seal,colorpoint,blue,FALSE,wet,UK,1.5,28.0,4.4,10.0,21.0,53.800755,-1.549077
+672,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,UK,4.0,27.0,4.5,23.0,15.0,53.800755,-1.549077
+673,Ragdoll,male,True,brown/chocolate,colorpoint,blue,TRUE,wet,UK,3.42,28.0,4.9,10.0,15.0,53.800755,-1.549077
+674,Ragdoll,male,False,red/cream,bicolor,blue,FALSE,wet,UK,1.58,28.0,4.4,35.0,19.0,53.800755,-1.549077
+675,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,UK,1.58,22.0,4.2,30.0,18.0,52.486244,-1.890401
+676,Ragdoll,female,False,seal,colorpoint,blue,FALSE,wet,UK,1.58,26.0,4.1,20.0,20.0,52.486244,-1.890401
+677,Ragdoll,male,True,seal,colorpoint,blue,FALSE,dry,UK,5.67,26.0,4.7,18.0,15.0,51.507351,-0.127758
+678,Ragdoll,female,True,seal,colorpoint,green,FALSE,dry,UK,5.67,27.0,4.9,12.0,16.0,51.507351,-0.127758
+679,Ragdoll,male,False,seal,colorpoint,blue,FALSE,wet,UK,1.67,31.0,4.7,30.0,19.0,53.800755,-1.549077
+680,Ragdoll,female,True,seal,tortie,blue,FALSE,wet,UK,1.67,20.0,3.5,32.0,20.0,53.480759,-2.242631
+681,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,UK,3.92,28.0,5.0,2.0,15.0,53.800755,-1.549077
+682,Ragdoll,male,False,seal,colorpoint,blue,TRUE,wet,Canada,1.75,29.0,4.1,11.0,17.0,49.246292,-123.116226
+683,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,Canada,1.83,28.0,4.0,25.0,16.0,49.246292,-123.116226
+684,Ragdoll,male,True,seal,colorpoint,blue,FALSE,dry,Canada,1.83,26.0,4.9,32.0,21.0,51.049999,-114.066666
+685,rack doll,female,True,seal,colorpoint,blue,FALSE,wet,Canada,1.83,24.0,3.8,4.0,17.0,43.65107,-79.347015
+686,Ragdoll,male,True,seal,mitted,blue,FALSE,dry,Canada,1.92,31.0,4.8,35.0,19.0,49.246292,-123.116226
+687,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,Canada,4.5,26.0,5.1,12.0,15.0,51.049999,-114.066666
+688,ragdoll,male,True,red/cream,bicolor,green,FALSE,wet,Canada,4.0,30.0,5.0,13.0,15.0,51.049999,-114.066666
+689,Ragdoll,male,False,seal,colorpoint,blue,FALSE,dry,Canada,4.25,30.0,5.2,7.0,15.0,45.508888,-73.561668
+690,Ragdoll,female,True,brown/chocolate,colorpoint,blue,FALSE,dry,Canada,2.0,21.0,4.0,22.0,17.0,45.42153,-75.697193
+691,Ragdoll,male,True,red/cream,colorpoint,green,FALSE,dry,Canada,2.0,27.0,4.9,29.0,15.0,45.508888,-73.561668
+692,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,Canada,2.0,20.0,3.5,20.0,15.0,45.42153,-75.697193
+693,Ragdoll,female,True,brown/chocolate,colorpoint,blue,FALSE,wet,USA,2.0,23.0,3.9,22.0,15.0,42.35843,-71.05977
+694,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,5.17,26.0,4.7,13.0,15.0,40.71427,-74.00597
+695,Ragdoll,female,True,seal,mitted,green,FALSE,wet,USA,2.08,23.0,4.33,8.0,17.0,42.35843,-71.05977
+696,Ragdoll,female,True,seal,colorpoint,green,FALSE,dry,USA,2.08,21.0,4.72,34.0,15.0,47.60621,-122.33207
+697,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,USA,2.08,25.0,6.05,5.0,15.0,47.60621,-122.33207
+698,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,2.08,43.903435468895076,5.740900649953575,12.0,16.0,42.35843,-71.05977
+699,Ragdoll,male,True,seal,colorpoint,blue,FALSE,dry,USA,2.17,43.903435468895076,5.740900649953575,23.0,16.0,38.89511,-77.03637
+700,Ragdoll,male,True,red/cream,colorpoint,blue,FALSE,wet,USA,2.17,43.903435468895076,5.740900649953575,29.0,15.0,38.89511,-77.03637
+701,Ragdoll,female,True,seal,colorpoint,green,FALSE,dry,USA,2.17,43.903435468895076,5.740900649953575,6.0,15.0,42.35843,-71.05977
+702,Ragdoll,female,True,seal,bicolor,blue,FALSE,wet,USA,2.17,43.903435468895076,5.740900649953575,28.0,15.0,38.89511,-77.03637
+703,Ragdoll,male,True,brown/chocolate,colorpoint,green,FALSE,dry,USA,5.92,27.0,8.62,29.0,15.0,42.35843,-71.05977
+704,Ragdoll,female,True,brown/chocolate,colorpoint,blue,FALSE,wet,USA,2.25,25.0,6.78,16.0,16.0,42.35843,-71.05977
+705,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,2.33,36.0,5.3,12.0,15.0,42.35843,-71.05977
+706,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,USA,2.33,31.0,6.87,31.0,15.0,38.89511,-77.03637
+707,Ragdoll,female,True,brown/chocolate,colorpoint,green,FALSE,wet,USA,2.33,20.0,4.7,24.0,15.0,38.89511,-77.03637
+708,Ragdoll,male,True,seal,colorpoint,blue,FALSE,dry,USA,2.33,28.0,6.3,7.0,15.0,40.71427,-74.00597
+709,rack doll,female,True,brown/chocolate,tortie,blue,FALSE,dry,USA,2.42,22.0,5.3,1.0,15.0,47.60621,-122.33207
+710,Ragdoll,female,False,seal,colorpoint,blue,FALSE,wet,USA,2.42,28.0,4.39,5.0,15.0,39.29038,-76.61219
+711,Ragdoll,male,True,red/cream,bicolor,blue,FALSE,wet,USA,2.5,27.0,6.8,21.0,15.0,47.60621,-122.33207
+712,Ragdoll,male,False,seal,colorpoint,blue,FALSE,wet,USA,2.5,29.0,6.77,3.0,15.0,45.52345,-122.67621
+713,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,2.5,24.0,4.88,21.0,17.0,40.71427,-74.00597
+714,Ragdoll,male,False,seal,colorpoint,blue,FALSE,wet,USA,2.5,27.0,6.72,8.0,15.0,45.52345,-122.67621
+715,Ragdoll,male,True,seal,colorpoint,green,FALSE,dry,USA,2.58,28.0,5.0,14.0,15.0,39.29038,-76.61219
+716,Ragdoll,male,True,seal,bicolor,green,FALSE,dry,USA,2.67,53.0,6.15,32.0,15.0,37.77493,-122.41942
+717,Ragdoll,female,True,seal,tortie,blue,TRUE,wet,USA,2.67,40.0,4.61,22.0,15.0,45.52345,-122.67621
+718,Ragdoll,female,False,seal,colorpoint,blue,FALSE,dry,USA,2.67,45.0,5.31,22.0,15.0,42.35843,-71.05977
+719,Ragdoll,male,False,red/cream,bicolor,blue,FALSE,wet,USA,2.67,51.0,5.53,25.0,15.0,40.71427,-74.00597
+720,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,USA,2.67,52.0,7.41,5.0,15.0,42.35843,-71.05977
+721,Ragdoll,female,False,brown/chocolate,mitted,green,FALSE,wet,USA,2.75,43.0,4.65,21.0,17.0,40.71427,-74.00597
+722,Ragdoll,female,True,seal,colorpoint,blue,FALSE,dry,USA,2.75,47.0,4.63,34.0,17.0,38.89511,-77.03637
+723,Ragdoll,female,False,brown/chocolate,bicolor,green,FALSE,wet,USA,2.75,48.0,6.0,15.0,17.0,42.35843,-71.05977
+724,Ragdoll,female,False,seal,colorpoint,blue,FALSE,wet,USA,2.83,38.0,5.3,31.0,17.0,38.89511,-77.03637
+725,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,USA,2.83,43.0,5.97,29.0,15.0,37.77493,-122.41942
+726,Ragdoll,male,True,seal,colorpoint,green,FALSE,wet,USA,2.83,51.0,5.67,24.0,17.0,38.89511,-77.03637
+727,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,USA,2.83,49.0,8.92,41.0,15.0,37.77493,-122.41942
+728,Ragdoll,male,False,seal,colorpoint,blue,TRUE,wet,USA,2.92,43.0,6.96,5.0,15.0,42.35843,-71.05977
+729,Ragdoll,male,True,red/cream,bicolor,green,FALSE,dry,USA,2.92,44.0,6.7,17.0,15.0,38.89511,-77.03637
+730,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,3.0,45.0,6.1,38.0,15.0,38.89511,-77.03637
+731,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,USA,3.0,55.0,9.0,12.0,16.0,40.71427,-74.00597
+732,Ragdoll,male,True,seal,colorpoint,blue,FALSE,dry,USA,3.0,51.0,7.65,30.0,17.0,40.71427,-74.00597
+733,Ragdoll,female,False,seal,colorpoint,blue,FALSE,wet,USA,3.0,44.0,5.64,24.0,15.0,45.52345,-122.67621
+734,Ragdoll,male,False,seal,colorpoint,blue,FALSE,wet,USA,3.0,50.0,7.48,27.0,17.0,40.71427,-74.00597
+735,Ragdoll,male,True,brown/chocolate,colorpoint,blue,FALSE,wet,USA,3.0,22.0,5.5,13.0,17.0,41.881832,-87.623177
+736,Ragdoll,female,True,brown/chocolate,tortie,green,FALSE,wet,USA,-3.083333333,41.0,5.35,24.0,15.0,41.881832,-87.623177
+737,Ragdoll,female,False,seal,colorpoint,blue,FALSE,wet,USA,-3.083333333,45.0,4.4,25.0,15.0,37.77493,-122.41942
+738,rack doll,female,True,seal,colorpoint,blue,FALSE,dry,USA,-3.083333333,39.0,6.75,12.0,15.0,47.60621,-122.33207
+739,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,-3.166666667,38.0,5.73,2.0,15.0,42.35843,-71.05977
+740,Ragdoll,male,True,brown/chocolate,colorpoint,green,FALSE,wet,USA,-3.166666667,43.0,6.56,25.0,15.0,41.881832,-87.623177
+741,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,-3.166666667,48.0,6.39,32.0,16.0,41.881832,-87.623177
+742,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,-3.166666667,47.0,4.38,14.0,16.0,40.71427,-74.00597
+743,Ragdoll,male,True,seal,colorpoint,blue,FALSE,dry,USA,3.17,46.0,7.79,13.0,15.0,40.71427,-74.00597
+744,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,3.17,39.0,5.34,29.0,17.0,38.89511,-77.03637
+745,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,3.17,47.0,6.42,26.0,15.0,38.89511,-77.03637
+746,Ragdoll,female,True,red/cream,colorpoint,green,FALSE,wet,USA,3.17,41.0,6.77,16.0,15.0,45.52345,-122.67621
+747,Ragdoll,female,True,seal,colorpoint,blue,TRUE,dry,USA,3.17,38.0,3.98,22.0,15.0,39.29038,-76.61219
+748,Ragdoll,male,True,red/cream,colorpoint,blue,FALSE,dry,USA,3.25,52.0,6.8,1.0,15.0,39.29038,-76.61219
+749,Ragdoll,female,False,brown/chocolate,colorpoint,blue,FALSE,wet,USA,3.25,39.0,4.22,31.0,15.0,45.52345,-122.67621
+750,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,USA,3.25,31.0,5.4,2.0,15.0,45.52345,-122.67621
+751,Ragdoll,male,True,red/cream,bicolor,blue,FALSE,wet,USA,3.25,48.0,7.78,16.0,16.0,38.89511,-77.03637
+752,Ragdoll,male,True,seal,colorpoint,green,FALSE,wet,USA,3.25,49.0,7.87,20.0,15.0,39.29038,-76.61219
+753,Ragdoll,female,True,seal,colorpoint,blue,FALSE,dry,USA,3.25,47.0,4.44,30.0,15.0,42.35843,-71.05977
+754,Ragdoll,male,True,brown/chocolate,colorpoint,blue,FALSE,dry,USA,3.25,30.0,4.9,29.0,15.0,41.881832,-87.623177
+755,Ragdoll,male,False,brown/chocolate,colorpoint,blue,FALSE,wet,USA,3.33,50.0,6.3,2.0,15.0,38.89511,-77.03637
+756,Ragdoll,male,True,red/cream,colorpoint,blue,FALSE,dry,USA,3.33,43.0,6.35,22.0,15.0,40.71427,-74.00597
+757,Ragdoll,female,False,seal,colorpoint,blue,FALSE,dry,USA,3.33,47.0,4.59,27.0,17.0,40.71427,-74.00597
+758,Ragdoll,male,True,seal,colorpoint,blue,FALSE,dry,USA,3.33,53.0,6.67,24.0,15.0,42.35843,-71.05977
+759,Ragdoll,female,False,seal,colorpoint,green,TRUE,dry,USA,3.33,50.0,4.88,27.0,15.0,38.89511,-77.03637
+760,Ragdoll,female,False,seal,tortie,blue,FALSE,wet,USA,3.33,39.0,4.72,31.0,16.0,42.35843,-71.05977
+761,rack doll,female,True,seal,bicolor,blue,FALSE,wet,USA,3.33,42.0,6.07,30.0,15.0,47.60621,-122.33207
+762,Ragdoll,male,True,seal,colorpoint,blue,FALSE,dry,USA,3.33,43.0,7.65,35.0,15.0,40.71427,-74.00597
+763,Ragdoll,male,False,seal,colorpoint,blue,FALSE,dry,USA,3.42,50.0,6.83,7.0,15.0,47.60621,-122.33207
+764,Ragdoll,male,True,red/cream,colorpoint,blue,FALSE,wet,USA,3.42,29.0,8.5,22.0,15.0,47.60621,-122.33207
+765,Ragdoll,female,False,seal,colorpoint,green,FALSE,wet,USA,3.5,47.0,5.36,9.0,15.0,39.29038,-76.61219
+766,Ragdoll,male,False,brown/chocolate,colorpoint,blue,FALSE,wet,USA,3.5,46.0,6.79,4.0,15.0,39.29038,-76.61219
+767,Ragdoll,male,True,red/cream,colorpoint,blue,FALSE,wet,USA,3.5,51.0,7.32,22.0,15.0,37.77493,-122.41942
+768,Ragdoll,female,False,seal,colorpoint,green,FALSE,dry,France,3.5,40.0,4.69,17.0,15.0,43.61166,3.87771
+769,Ragdoll,male,True,seal,colorpoint,blue,TRUE,dry,France,3.58,43.0,6.68,25.0,17.0,44.837789,-0.57918
+770,Ragdoll,female,True,seal,colorpoint,blue,FALSE,dry,France,3.58,48.0,3.98,31.0,15.0,44.837789,-0.57918
+771,Ragdoll,male,False,brown/chocolate,colorpoint,blue,FALSE,wet,France,3.58,50.0,8.02,13.0,15.0,45.76342,4.834277
+772,Ragdoll,male,True,seal,colorpoint,green,FALSE,wet,France,3.58,51.0,8.33,18.0,16.0,43.61166,3.87771
+773,Ragdoll,male,True,red/cream,colorpoint,blue,FALSE,wet,France,3.58,45.0,6.79,3.0,15.0,48.864716,2.349014
+774,Ragdoll,female,False,seal,colorpoint,green,FALSE,wet,France,3.67,41.0,6.32,9.0,17.0,48.864716,2.349014
+775,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,France,3.67,38.0,4.26,23.0,16.0,48.864716,2.349014
+776,Ragdoll,female,False,brown/chocolate,colorpoint,blue,FALSE,wet,France,3.67,44.0,4.91,6.0,15.0,48.864716,2.349014
+777,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,France,3.75,42.0,6.76,4.0,17.0,47.218371,-1.553621
+778,Ragdoll,male,True,red/cream,bicolor,blue,FALSE,wet,France,3.75,49.0,5.6,31.0,15.0,45.76342,4.834277
+779,Ragdoll,male,False,seal,colorpoint,blue,FALSE,dry,USA,3.83,53.0,7.54,6.0,15.0,38.89511,-77.03637
+780,Ragdoll,male,True,brown/chocolate,colorpoint,blue,FALSE,wet,USA,3.83,45.0,7.93,29.0,16.0,39.29038,-76.61219
+781,wrack doll,female,True,seal,colorpoint,green,FALSE,dry,USA,3.83,45.0,5.22,29.0,15.0,39.29038,-76.61219
+782,Ragdoll,male,True,red/cream,bicolor,blue,TRUE,wet,USA,3.83,46.0,8.6,13.0,17.0,47.60621,-122.33207
+783,Ragdoll,female,False,seal,tortie,blue,FALSE,wet,USA,3.83,40.0,3.74,16.0,16.0,39.29038,-76.61219
+784,Ragdoll,female,True,seal,colorpoint,blue,FALSE,dry,USA,3.83,40.0,6.89,7.0,15.0,38.89511,-77.03637
+785,Ragdoll,male,True,seal,colorpoint,green,FALSE,wet,USA,3.92,46.0,8.13,21.0,17.0,42.35843,-71.05977
+786,Ragdoll,male,True,seal,colorpoint,green,FALSE,wet,USA,3.92,46.0,7.33,4.0,15.0,40.71427,-74.00597
+787,Ragdoll,female,False,seal,colorpoint,amber,FALSE,wet,USA,3.92,38.0,5.81,21.0,12.0,41.881832,-87.623177
+788,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,4.0,43.903435468895076,5.740900649953575,13.0,12.0,45.52345,-122.67621
+789,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,USA,4.08,43.903435468895076,5.740900649953575,29.0,16.0,42.35843,-71.05977
+790,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,USA,4.08,43.903435468895076,5.740900649953575,5.0,17.0,39.29038,-76.61219
+791,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,4.17,43.903435468895076,5.740900649953575,19.0,12.0,45.52345,-122.67621
+792,Ragdoll,male,True,seal,colorpoint,blue,TRUE,dry,USA,4.25,43.903435468895076,5.740900649953575,30.0,16.0,38.89511,-77.03637
+793,Ragdoll,male,True,seal,colorpoint,green,FALSE,wet,USA,4.33,43.903435468895076,5.740900649953575,32.0,16.0,42.35843,-71.05977
+794,Ragdoll,male,False,red/cream,colorpoint,blue,FALSE,wet,USA,4.33,43.903435468895076,5.740900649953575,33.0,12.0,38.89511,-77.03637
+795,Ragdoll,male,False,seal,colorpoint,blue,FALSE,dry,USA,4.33,43.903435468895076,5.740900649953575,18.0,15.0,45.52345,-122.67621
+796,Ragdoll,male,True,red/cream,bicolor,blue,FALSE,dry,USA,4.42,53.0,5.7,17.0,16.0,38.89511,-77.03637
+797,Ragdoll,female,False,brown/chocolate,colorpoint,blue,FALSE,dry,USA,4.42,46.0,4.75,8.0,12.0,38.89511,-77.03637
+798,Ragdoll,female,False,seal,colorpoint,blue,FALSE,wet,USA,4.42,44.0,5.56,7.0,12.0,45.52345,-122.67621
+799,Ragdoll,female,False,seal,bicolor,green,FALSE,wet,USA,4.42,50.0,5.09,13.0,12.0,39.29038,-76.61219
+800,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,4.5,40.0,6.93,3.0,12.0,37.77493,-122.41942
+801,Ragdoll,female,False,seal,colorpoint,blue,FALSE,wet,USA,4.5,45.0,6.47,20.0,16.0,37.77493,-122.41942
+802,Ragdoll,female,False,seal,colorpoint,blue,FALSE,wet,USA,4.5,41.0,5.38,9.0,17.0,47.60621,-122.33207
+803,Ragdoll,female,False,brown/chocolate,bicolor,green,FALSE,wet,USA,4.58,46.0,5.5,14.0,16.0,40.71427,-74.00597
+804,Ragdoll,male,True,seal,colorpoint,green,TRUE,wet,USA,4.58,50.0,8.46,28.0,17.0,38.89511,-77.03637
+805,Ragdoll,male,True,seal,mitted,blue,FALSE,wet,USA,4.58,46.0,8.05,25.0,16.0,39.29038,-76.61219
+806,Ragdoll,female,True,red/cream,tortie,blue,FALSE,wet,USA,4.58,38.0,5.71,27.0,12.0,42.35843,-71.05977
+807,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,USA,4.58,47.0,8.38,15.0,12.0,40.71427,-74.00597
+808,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,4.58,39.0,4.23,18.0,12.0,37.77493,-122.41942
+809,Ragdoll,male,False,seal,colorpoint,blue,FALSE,wet,USA,4.58,46.0,6.18,12.0,12.0,42.35843,-71.05977
+810,Ragdoll,male,True,seal,colorpoint,blue,FALSE,dry,USA,4.67,57.0,8.54,22.0,12.0,37.77493,-122.41942
+811,Ragdoll,male,True,seal,colorpoint,green,FALSE,wet,USA,4.67,44.0,6.27,7.0,12.0,42.35843,-71.05977
+812,Ragdoll,female,False,seal,colorpoint,blue,FALSE,wet,USA,4.67,48.0,5.81,17.0,12.0,40.71427,-74.00597
+813,Ragdoll,female,False,seal,colorpoint,blue,FALSE,dry,USA,4.75,42.0,5.49,11.0,16.0,47.60621,-122.33207
+814,wrack doll,male,True,seal,colorpoint,blue,FALSE,wet,USA,4.75,44.0,5.73,27.0,15.0,40.71427,-74.00597
+815,Ragdoll,female,True,seal,colorpoint,green,FALSE,wet,USA,4.83,40.0,4.44,36.0,12.0,38.89511,-77.03637
+816,Ragdoll,male,True,red/cream,colorpoint,blue,FALSE,wet,USA,4.83,52.0,7.72,0.0,12.0,38.89511,-77.03637
+817,Ragdoll,male,False,red/cream,bicolor,blue,FALSE,wet,USA,4.83,43.0,6.95,11.0,12.0,38.89511,-77.03637
+818,Ragdoll,male,False,seal,colorpoint,blue,FALSE,dry,USA,4.83,57.0,7.98,31.0,12.0,42.35843,-71.05977
+819,Ragdoll,female,True,brown/chocolate,colorpoint,green,FALSE,wet,USA,4.83,44.0,4.21,35.0,12.0,41.881832,-87.623177
+820,Ragdoll,male,True,seal,colorpoint,green,FALSE,dry,USA,4.83,51.0,8.14,6.0,12.0,42.35843,-71.05977
+821,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,4.92,38.0,6.21,27.0,16.0,38.89511,-77.03637
+822,Ragdoll,male,True,seal,solid,blue,FALSE,wet,USA,4.92,43.903435468895076,5.740900649953575,14.0,12.0,42.35843,-71.05977
+823,Ragdoll,male,True,seal,solid,blue,FALSE,dry,USA,4.92,43.903435468895076,5.740900649953575,36.0,12.0,38.89511,-77.03637
+824,Ragdoll,male,True,seal,solid,blue,FALSE,wet,USA,4.92,43.903435468895076,5.740900649953575,14.0,12.0,40.71427,-74.00597
+825,Ragdoll,male,True,seal,solid,blue,FALSE,wet,USA,4.92,43.903435468895076,5.740900649953575,14.0,15.0,41.881832,-87.623177
+826,Ragdoll,female,False,brown/chocolate,colorpoint,green,FALSE,wet,USA,5.08,40.0,4.16,32.0,16.0,39.29038,-76.61219
+827,Ragdoll,female,False,seal,colorpoint,blue,FALSE,dry,USA,5.08,44.0,6.75,9.0,15.0,37.77493,-122.41942
+828,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,5.08,48.0,6.71,7.0,15.0,38.89511,-77.03637
+829,Ragdoll,male,True,red/cream,colorpoint,blue,FALSE,wet,USA,5.17,51.0,7.78,6.0,16.0,37.77493,-122.41942
+830,Ragdoll,male,False,red/cream,colorpoint,blue,FALSE,dry,USA,5.17,49.0,7.06,12.0,12.0,42.35843,-71.05977
+831,Ragdoll,female,True,seal,colorpoint,green,FALSE,wet,USA,5.17,50.0,5.59,10.0,17.0,42.35843,-71.05977
+832,Ragdoll,female,False,brown/chocolate,colorpoint,blue,FALSE,dry,USA,5.25,50.0,4.88,33.0,12.0,40.71427,-74.00597
+833,Ragdoll,male,True,seal,colorpoint,blue,FALSE,dry,USA,5.25,45.0,5.97,30.0,12.0,47.60621,-122.33207
+834,Ragdoll,male,True,seal,colorpoint,blue,FALSE,dry,USA,5.42,61.0,9.19,11.0,12.0,39.29038,-76.61219
+835,Ragdoll,male,False,seal,colorpoint,blue,FALSE,dry,USA,5.5,45.0,6.63,23.0,12.0,38.89511,-77.03637
+836,Ragdoll,male,True,seal,colorpoint,green,FALSE,wet,USA,5.5,48.0,8.74,10.0,12.0,40.71427,-74.00597
+837,Ragdoll,male,True,red/cream,bicolor,blue,FALSE,dry,USA,5.5,47.0,7.43,20.0,15.0,47.60621,-122.33207
+838,wrack doll,male,False,red/cream,bicolor,green,FALSE,wet,Germany,5.58,52.0,7.3,1.0,15.0,48.137154,11.576124
+839,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,Germany,5.58,48.0,6.17,17.0,15.0,50.110924,8.682127
+840,Ragdoll,female,False,seal,colorpoint,blue,FALSE,wet,Germany,5.58,42.0,6.52,9.0,17.0,51.227741,6.773456
+841,Ragdoll,male,False,seal,colorpoint,blue,FALSE,wet,Germany,5.58,52.0,7.55,26.0,12.0,50.110924,8.682127
+842,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,Germany,5.58,46.0,6.17,15.0,12.0,50.110924,8.682127
+843,Ragdoll,female,False,seal,colorpoint,blue,FALSE,wet,Germany,5.67,43.0,5.58,24.0,12.0,50.110924,8.682127
+844,Ragdoll,female,True,seal,colorpoint,green,FALSE,wet,Germany,5.67,43.0,7.21,3.0,15.0,51.227741,6.773456
+845,wrack doll,male,False,red/cream,colorpoint,blue,FALSE,wet,Germany,5.67,46.0,5.62,32.0,12.0,51.227741,6.773456
+846,Ragdoll,male,False,red/cream,colorpoint,blue,FALSE,wet,Germany,5.67,52.0,5.94,30.0,12.0,51.227741,6.773456
+847,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,Germany,5.67,45.0,5.87,14.0,12.0,52.520008,13.404954
+848,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,5.67,41.0,4.95,9.0,12.0,38.89511,-77.03637
+849,Ragdoll,male,True,red/cream,colorpoint,blue,TRUE,wet,USA,5.67,53.0,7.12,24.0,17.0,40.71427,-74.00597
+850,Ragdoll,female,True,seal,colorpoint,blue,FALSE,dry,USA,5.67,40.0,5.49,26.0,12.0,38.89511,-77.03637
+851,Ragdoll,male,False,seal,colorpoint,blue,FALSE,wet,USA,5.75,48.0,5.73,10.0,12.0,40.71427,-74.00597
+852,Ragdoll,male,True,seal,bicolor,amber,FALSE,wet,USA,5.75,43.0,7.13,12.0,12.0,40.71427,-74.00597
+853,Ragdoll,female,True,seal,mitted,blue,FALSE,wet,USA,5.83,39.0,6.9,2.0,16.0,41.881832,-87.623177
+854,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,USA,5.83,44.0,8.59,10.0,12.0,41.881832,-87.623177
+855,Ragdoll,female,False,lilac,colorpoint,blue,FALSE,wet,USA,5.83,45.0,7.08,9.0,12.0,42.35843,-71.05977
+856,Ragdoll,female,True,brown/chocolate,colorpoint,blue,FALSE,wet,USA,6.0,42.0,6.69,9.0,16.0,40.71427,-74.00597
+857,Ragdoll,female,False,red/cream,mitted,blue,FALSE,wet,USA,6.0,45.0,3.73,15.0,16.0,40.71427,-74.00597
+858,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,USA,6.0,44.0,5.71,28.0,15.0,38.89511,-77.03637
+859,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,USA,6.0,48.0,8.97,17.0,12.0,38.89511,-77.03637
+860,Ragdoll,female,False,seal,colorpoint,green,FALSE,wet,USA,6.0,38.0,3.86,23.0,16.0,45.52345,-122.67621
+861,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,6.08,45.0,5.84,30.0,12.0,40.71427,-74.00597
+862,Ragdoll,male,True,red/cream,colorpoint,blue,FALSE,wet,USA,6.08,51.0,7.25,18.0,16.0,40.71427,-74.00597
+863,Ragdoll,female,False,seal,colorpoint,blue,FALSE,wet,USA,6.08,36.0,5.43,4.0,12.0,40.71427,-74.00597
+864,wrack doll,female,True,seal,colorpoint,blue,FALSE,wet,USA,6.08,45.0,6.06,31.0,17.0,38.89511,-77.03637
+865,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,6.08,42.0,4.62,11.0,15.0,37.77493,-122.41942
+866,Ragdoll,female,True,seal,colorpoint,green,FALSE,wet,USA,6.08,40.0,5.01,15.0,16.0,47.60621,-122.33207
+867,Ragdoll,male,False,seal,bicolor,blue,FALSE,wet,USA,6.08,43.0,6.22,20.0,15.0,40.71427,-74.00597
+868,Ragdoll,female,True,seal,colorpoint,blue,FALSE,dry,USA,-6.083333333,41.0,6.47,18.0,12.0,45.52345,-122.67621
+869,Ragdoll,male,True,brown/chocolate,colorpoint,blue,FALSE,wet,UK,-6.166666667,43.0,8.27,5.0,17.0,52.486244,-1.890401
+870,Ragdoll,male,False,seal,colorpoint,blue,FALSE,wet,UK,-6.166666667,51.0,7.25,15.0,12.0,53.408371,-2.991573
+871,Ragdoll,female,True,seal,bicolor,blue,FALSE,dry,UK,-6.166666667,40.0,6.84,9.0,17.0,51.507351,-0.127758
+872,Ragdoll,female,False,red/cream,colorpoint,blue,FALSE,dry,UK,6.25,48.0,5.26,27.0,12.0,51.507351,-0.127758
+873,Ragdoll,female,False,seal,colorpoint,blue,FALSE,wet,UK,6.25,50.0,3.99,10.0,16.0,53.408371,-2.991573
+874,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,UK,6.25,44.0,8.22,23.0,17.0,51.507351,-0.127758
+875,Ragdoll,male,False,seal,bicolor,green,FALSE,wet,UK,6.25,44.0,7.43,12.0,12.0,51.507351,-0.127758
+876,Ragdoll,female,False,seal,colorpoint,blue,TRUE,dry,UK,6.25,48.0,6.29,10.0,12.0,53.800755,-1.549077
+877,Ragdoll,male,True,seal,colorpoint,blue,FALSE,dry,UK,6.25,47.0,6.21,27.0,12.0,53.408371,-2.991573
+878,Ragdoll,female,True,seal,tortie,blue,FALSE,wet,UK,6.33,38.0,5.6,18.0,17.0,53.480759,-2.242631
+879,Ragdoll,female,False,seal,colorpoint,blue,FALSE,dry,UK,6.33,47.0,6.89,9.0,12.0,51.507351,-0.127758
+880,Ragdoll,female,True,seal,colorpoint,blue,FALSE,dry,UK,6.5,46.0,6.21,27.0,12.0,51.507351,-0.127758
+881,Ragdoll,male,True,seal,mitted,green,FALSE,wet,UK,6.5,46.0,7.54,1.0,12.0,51.507351,-0.127758
+882,wrack doll,female,True,brown/chocolate,tortie,blue,FALSE,wet,USA,6.5,38.0,6.93,5.0,12.0,44.55089761612283,-59.517622809021105
+883,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,USA,6.5,51.0,7.31,22.0,17.0,44.55089761612283,-59.517622809021105
+884,Ragdoll,female,True,seal,tortie,blue,FALSE,dry,USA,6.58,48.0,6.53,19.0,12.0,37.77493,-122.41942
+885,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,6.58,38.0,6.25,18.0,17.0,45.52345,-122.67621
+886,Ragdoll,female,False,seal,bicolor,blue,FALSE,wet,Germany,6.67,46.0,6.6,3.0,12.0,52.520008,13.404954
+887,Ragdoll,male,True,brown/chocolate,colorpoint,blue,FALSE,wet,Germany,6.67,44.0,6.27,7.0,12.0,48.137154,11.576124
+888,wrack doll,male,True,red/cream,bicolor,green,FALSE,wet,Germany,6.75,53.0,7.92,18.0,12.0,50.110924,8.682127
+889,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,Germany,6.75,44.0,4.41,6.0,17.0,52.520008,13.404954
+890,Ragdoll,female,False,lilac,colorpoint,blue,FALSE,wet,Germany,6.83,49.0,4.08,33.0,12.0,50.110924,8.682127
+891,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,Germany,6.92,45.0,7.67,26.0,15.0,48.137154,11.576124
+892,wrack doll,male,True,seal,colorpoint,blue,FALSE,wet,Germany,7.0,48.0,8.23,28.0,12.0,52.520008,13.404954
+893,Ragdoll,female,False,seal,tortie,blue,FALSE,wet,Germany,7.0,40.0,5.79,5.0,15.0,52.520008,13.404954
+894,Ragdoll,male,True,seal,colorpoint,green,FALSE,wet,Germany,7.0,52.0,7.22,13.0,17.0,50.110924,8.682127
+895,Ragdoll,male,True,brown/chocolate,colorpoint,blue,FALSE,wet,USA,7.08,48.0,7.18,21.0,17.0,40.71427,-74.00597
+896,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,USA,7.08,45.0,8.18,25.0,21.0,42.35843,-71.05977
+897,Ragdoll,female,False,seal,mitted,blue,FALSE,dry,USA,7.08,48.0,3.92,9.0,17.0,45.52345,-122.67621
+898,Ragdoll,female,True,brown/chocolate,colorpoint,blue,FALSE,wet,USA,7.08,31.0,5.28,7.0,16.0,40.71427,-74.00597
+899,Ragdoll,female,False,seal,colorpoint,blue,FALSE,wet,USA,7.17,46.0,5.04,34.0,19.0,38.89511,-77.03637
+900,Ragdoll,male,True,brown/chocolate,bicolor,blue,FALSE,wet,USA,7.17,43.0,9.0,5.0,20.0,40.71427,-74.00597
+901,Ragdoll,male,False,red/cream,colorpoint,blue,TRUE,wet,USA,7.25,50.0,6.34,23.17652495378928,15.898305084745763,40.71427,-74.00597
+902,Ragdoll,male,True,seal,colorpoint,green,FALSE,dry,USA,7.25,43.0,5.84,23.17652495378928,15.898305084745763,42.35843,-71.05977
+903,Ragdoll,female,False,seal,colorpoint,blue,FALSE,wet,USA,7.25,50.0,3.66,23.17652495378928,15.898305084745763,38.89511,-77.03637
+904,Ragdoll,female,True,brown/chocolate,mitted,blue,FALSE,wet,USA,7.33,38.0,6.24,23.17652495378928,15.898305084745763,45.52345,-122.67621
+905,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,USA,7.33,58.0,8.29,23.17652495378928,15.898305084745763,40.71427,-74.00597
+906,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,USA,7.33,47.0,8.95,21.0,18.0,42.35843,-71.05977
+907,Ragdoll,male,False,seal,colorpoint,blue,FALSE,wet,USA,7.5,51.0,6.74,24.0,15.0,38.89511,-77.03637
+908,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,7.5,50.0,4.39,9.0,19.0,42.35843,-71.05977
+909,Ragdoll,male,False,seal,colorpoint,blue,FALSE,dry,USA,7.5,49.0,7.25,12.0,17.0,42.35843,-71.05977
+910,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,USA,7.58,45.0,6.31,34.0,19.0,38.89511,-77.03637
+911,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,USA,7.58,47.0,5.79,16.0,21.0,45.52345,-122.67621
+912,wrack doll,male,True,seal,colorpoint,green,FALSE,dry,USA,7.58,47.0,7.73,10.0,16.0,38.89511,-77.03637
+913,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,Canada,7.58,43.0,7.08,3.0,15.0,45.42153,-75.697193
+914,Ragdoll,male,True,seal,colorpoint,green,FALSE,wet,Canada,7.58,49.0,7.91,26.0,18.0,51.049999,-114.066666
+915,Ragdoll,female,True,red/cream,colorpoint,blue,FALSE,wet,Canada,7.67,50.0,5.04,7.0,19.0,51.049999,-114.066666
+916,Ragdoll,male,False,seal,colorpoint,blue,FALSE,wet,Canada,7.67,45.0,7.03,21.0,19.0,43.65107,-79.347015
+917,Ragdoll,female,True,seal,colorpoint,blue,TRUE,wet,Canada,7.67,49.0,4.87,29.0,18.0,51.049999,-114.066666
+918,Ragdoll,male,True,brown/chocolate,bicolor,green,FALSE,wet,Canada,7.67,62.0,7.2,13.0,17.0,51.049999,-114.066666
+919,Ragdoll,female,True,brown/chocolate,colorpoint,blue,FALSE,dry,Canada,7.67,48.0,6.75,27.0,20.0,49.246292,-123.116226
+920,Ragdoll,male,True,red/cream,colorpoint,blue,FALSE,wet,Canada,7.67,49.0,7.24,23.0,17.0,51.049999,-114.066666
+921,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,Canada,7.75,49.0,7.36,14.0,19.0,51.049999,-114.066666
+922,Ragdoll,female,False,seal,colorpoint,blue,FALSE,wet,Canada,7.75,47.0,5.91,28.0,21.0,45.508888,-73.561668
+923,Ragdoll,male,True,seal,bicolor,blue,FALSE,wet,Canada,7.75,43.0,8.89,27.0,19.0,51.049999,-114.066666
+924,Ragdoll,male,True,red/cream,bicolor,green,FALSE,wet,Canada,7.75,63.0,8.68,5.0,16.0,51.049999,-114.066666
+925,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,Canada,7.75,38.0,5.52,13.0,16.0,45.508888,-73.561668
+926,Ragdoll,male,False,seal,bicolor,blue,FALSE,wet,Canada,7.75,48.0,7.72,26.0,17.0,43.65107,-79.347015
+927,Ragdoll,female,False,brown/chocolate,colorpoint,blue,FALSE,dry,Canada,7.83,44.0,7.07,2.0,15.0,45.508888,-73.561668
+928,Ragdoll,male,True,brown/chocolate,bicolor,green,FALSE,wet,USA,7.83,50.0,6.42,13.0,18.0,40.71427,-74.00597
+929,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,7.83,38.0,6.2,0.0,18.0,47.60621,-122.33207
+930,Ragdoll,female,False,brown/chocolate,colorpoint,blue,FALSE,wet,USA,7.92,48.0,4.65,18.0,16.0,42.35843,-71.05977
+931,Ragdoll,male,False,seal,colorpoint,green,FALSE,wet,USA,7.92,49.0,6.28,34.0,18.0,39.29038,-76.61219
+932,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,USA,8.0,45.0,7.67,15.0,20.0,42.35843,-71.05977
+933,Ragdoll,male,True,brown/chocolate,colorpoint,blue,FALSE,wet,USA,8.0,46.0,7.62,19.0,18.0,37.77493,-122.41942
+934,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,8.0,41.0,5.77,30.0,19.0,39.29038,-76.61219
+935,Ragdoll,male,True,seal,colorpoint,blue,FALSE,dry,USA,8.0,48.0,6.58,18.0,16.0,42.35843,-71.05977
+936,Ragdoll,female,True,seal,colorpoint,blue,FALSE,dry,USA,7.83,45.0,3.98,19.0,21.0,38.89511,-77.03637
+937,Ragdoll,female,True,seal,bicolor,blue,FALSE,wet,USA,8.0,48.0,4.28,31.0,16.0,41.881832,-87.623177
+938,Ragdoll,male,False,seal,colorpoint,blue,FALSE,wet,USA,8.08,51.0,7.66,10.0,19.0,42.35843,-71.05977
+939,Ragdoll,female,True,seal,colorpoint,green,FALSE,wet,USA,7.92,47.0,6.73,27.0,15.0,45.52345,-122.67621
+940,Ragdoll,male,True,red/cream,colorpoint,blue,FALSE,dry,USA,8.08,47.0,8.41,10.0,19.0,42.35843,-71.05977
+941,Ragdoll,female,True,seal,tortie,blue,FALSE,dry,USA,8.17,38.0,6.99,2.0,16.0,38.89511,-77.03637
+942,Ragdoll,male,False,seal,colorpoint,blue,FALSE,wet,USA,8.17,53.0,8.38,28.0,20.0,47.60621,-122.33207
+943,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,USA,8.17,44.0,8.59,36.0,19.0,40.71427,-74.00597
+944,Ragdoll,male,False,seal,colorpoint,blue,FALSE,dry,USA,8.17,48.0,5.74,22.0,20.0,42.35843,-71.05977
+945,Ragdoll,female,False,brown/chocolate,colorpoint,blue,FALSE,dry,USA,8.17,44.0,6.16,28.0,20.0,39.29038,-76.61219
+946,Ragdoll,male,True,red/cream,colorpoint,blue,FALSE,wet,USA,8.17,50.0,8.7,8.0,19.0,41.881832,-87.623177
+947,Ragdoll,male,True,seal,colorpoint,blue,FALSE,dry,USA,8.25,46.0,9.07,7.0,16.0,47.60621,-122.33207
+948,Ragdoll,female,True,seal,bicolor,blue,FALSE,wet,USA,8.25,39.0,5.03,10.0,19.0,42.35843,-71.05977
+949,Ragdoll,male,True,seal,colorpoint,green,FALSE,wet,USA,8.25,44.0,6.76,26.0,19.0,45.52345,-122.67621
+950,Ragdoll,male,False,seal,colorpoint,blue,FALSE,dry,USA,8.42,53.0,5.99,13.0,17.0,42.35843,-71.05977
+951,Ragdoll,female,True,brown/chocolate,colorpoint,blue,FALSE,dry,USA,8.42,41.0,5.7,29.0,20.0,42.35843,-71.05977
+952,Ragdoll,female,True,brown/chocolate,colorpoint,blue,FALSE,dry,USA,8.5,47.0,5.86,9.0,20.0,40.71427,-74.00597
+953,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,USA,8.5,45.0,8.45,21.0,20.0,42.35843,-71.05977
+954,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,USA,8.5,52.0,8.33,22.0,17.0,37.77493,-122.41942
+955,Ragdoll,female,False,seal,colorpoint,blue,FALSE,wet,USA,8.58,50.0,5.51,32.0,18.0,42.35843,-71.05977
+956,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,8.58,44.0,5.7,12.0,20.0,39.29038,-76.61219
+957,Ragdoll,male,False,brown/chocolate,colorpoint,blue,FALSE,wet,USA,8.58,46.0,6.61,14.0,19.0,38.89511,-77.03637
+958,Ragdoll,male,False,brown/chocolate,colorpoint,green,FALSE,wet,USA,8.58,53.0,6.37,34.0,18.0,38.89511,-77.03637
+959,Ragdoll,female,True,seal,tortie,blue,FALSE,wet,USA,4.58,46.0,4.37,13.0,12.0,38.89511,-77.03637
+960,Ragdoll,female,True,seal,tortie,blue,FALSE,wet,USA,8.67,48.0,6.46,20.0,18.0,40.71427,-74.00597
+961,Ragdoll,female,False,seal,colorpoint,blue,FALSE,wet,USA,8.75,43.0,6.1,15.0,20.0,38.89511,-77.03637
+962,Ragdoll,male,False,seal,colorpoint,blue,FALSE,wet,USA,8.75,50.0,6.79,33.0,21.0,40.71427,-74.00597
+963,Ragdoll,female,True,seal,tortie,blue,FALSE,wet,USA,4.5,45.0,4.33,26.0,15.0,38.89511,-77.03637
+964,Ragdoll,female,True,seal,colorpoint,blue,TRUE,wet,USA,8.75,38.0,6.04,30.0,19.0,42.35843,-71.05977
+965,Ragdoll,female,False,seal,colorpoint,blue,FALSE,wet,USA,8.75,43.0,6.4,18.0,18.0,47.60621,-122.33207
+966,Ragdoll,female,False,seal,colorpoint,blue,FALSE,dry,USA,5.58,45.0,4.31,16.0,12.0,39.29038,-76.61219
+967,Ragdoll,female,False,seal,bicolor,blue,FALSE,wet,USA,8.83,41.0,5.72,11.0,20.0,38.89511,-77.03637
+968,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,USA,8.92,44.0,5.82,25.0,20.0,39.29038,-76.61219
+969,Ragdoll,male,True,red/cream,colorpoint,blue,FALSE,wet,USA,8.92,52.0,7.18,19.0,19.0,47.60621,-122.33207
+970,Ragdoll,male,True,seal,colorpoint,green,FALSE,wet,USA,8.92,55.0,9.13,15.0,18.0,41.881832,-87.623177
+971,Ragdoll,female,False,seal,colorpoint,blue,FALSE,wet,USA,8.92,43.0,6.82,13.0,18.0,37.77493,-122.41942
+972,Ragdoll,male,True,seal,bicolor,blue,FALSE,wet,USA,9.0,45.0,6.66,8.0,19.0,45.52345,-122.67621
+973,Ragdoll,male,False,red/cream,colorpoint,blue,FALSE,wet,USA,9.0,52.0,7.99,25.0,17.0,38.89511,-77.03637
+974,Ragdoll,female,False,seal,colorpoint,blue,FALSE,wet,USA,9.0,47.0,6.36,30.0,19.0,38.89511,-77.03637
+975,Ragdoll,male,True,red/cream,colorpoint,blue,FALSE,wet,USA,9.0,43.0,6.42,20.0,17.0,38.89511,-77.03637
+976,Ragdoll,male,False,seal,colorpoint,blue,FALSE,wet,USA,9.08,46.0,5.72,21.0,18.0,37.77493,-122.41942
+977,Ragdoll,female,True,seal,tortie,green,FALSE,wet,USA,5.08,38.0,4.37,18.0,17.0,38.89511,-77.03637
+978,Ragdoll,male,True,seal,colorpoint,blue,FALSE,dry,USA,9.08,47.0,7.91,8.0,20.0,38.89511,-77.03637
+979,Ragdoll,male,False,brown/chocolate,colorpoint,blue,FALSE,wet,USA,9.08,46.0,6.15,13.0,21.0,40.71427,-74.00597
+980,Ragdoll,female,True,red/cream,colorpoint,blue,FALSE,wet,USA,9.17,49.0,5.73,30.0,17.0,42.35843,-71.05977
+981,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,USA,9.17,46.0,5.84,23.0,18.0,45.52345,-122.67621
+982,Ragdoll,male,True,brown/chocolate,colorpoint,green,FALSE,wet,USA,9.17,50.0,7.52,29.0,18.0,47.60621,-122.33207
+983,Ragdoll,female,False,seal,colorpoint,blue,FALSE,wet,USA,2.67,38.0,4.59,8.0,12.0,38.89511,-77.03637
+984,Ragdoll,female,False,seal,bicolor,blue,FALSE,wet,USA,9.25,48.0,3.71,15.0,18.0,38.89511,-77.03637
+985,Ragdoll,female,False,seal,colorpoint,green,FALSE,dry,USA,9.25,48.0,6.11,14.0,20.0,42.35843,-71.05977
+986,Ragdoll,male,True,seal,colorpoint,blue,FALSE,dry,USA,9.25,47.0,8.61,6.0,17.0,45.52345,-122.67621
+987,Ragdoll,female,True,seal,colorpoint,blue,FALSE,dry,USA,9.25,48.0,5.49,28.0,20.0,39.29038,-76.61219
+988,Ragdoll,male,False,brown/chocolate,colorpoint,blue,FALSE,wet,USA,9.33,50.0,7.16,27.0,19.0,40.71427,-74.00597
+989,Ragdoll,female,False,seal,colorpoint,blue,FALSE,wet,USA,5.58,49.0,4.57,29.0,16.0,38.89511,-77.03637
+990,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,9.33,39.0,6.15,13.0,19.0,40.71427,-74.00597
+991,Ragdoll,female,True,lilac,colorpoint,blue,FALSE,wet,USA,9.33,47.0,7.34,11.0,16.0,40.71427,-74.00597
+992,Ragdoll,male,True,brown/chocolate,colorpoint,blue,FALSE,wet,USA,9.42,46.0,8.17,22.0,16.0,40.71427,-74.00597
+993,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,9.42,38.0,6.38,38.0,21.0,38.89511,-77.03637
+994,Ragdoll,male,True,seal,solid,blue,FALSE,wet,USA,9.42,43.903435468895076,5.740900649953575,27.0,17.0,42.35843,-71.05977
+995,Ragdoll,male,True,seal,colorpoint,green,FALSE,wet,USA,9.42,54.0,9.15,6.0,18.0,38.89511,-77.03637
+996,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,9.5,48.0,4.76,13.0,19.0,40.71427,-74.00597
+997,Ragdoll,female,False,seal,colorpoint,blue,FALSE,wet,USA,5.17,40.0,4.07,22.0,15.0,39.29038,-76.61219
+998,Ragdoll,male,True,red/cream,colorpoint,blue,FALSE,wet,USA,9.5,58.0,9.06,0.0,18.0,44.55089761612283,-59.517622809021105
+999,Ragdoll,male,False,seal,colorpoint,green,FALSE,wet,USA,9.5,53.0,7.09,21.0,20.0,44.55089761612283,-59.517622809021105
+1000,Ragdoll,male,True,red/cream,colorpoint,blue,FALSE,wet,USA,9.58,51.0,7.7,23.0,19.0,44.55089761612283,-59.517622809021105
+1001,Ragdoll,male,True,red/cream,colorpoint,blue,FALSE,dry,USA,9.58,46.0,5.87,29.0,19.0,44.55089761612283,-59.517622809021105
+1002,Ragdoll,male,False,seal,colorpoint,blue,FALSE,wet,USA,9.58,50.0,6.91,30.0,16.0,44.55089761612283,-59.517622809021105
+1003,Ragdoll,male,True,seal,colorpoint,green,FALSE,dry,USA,9.58,48.0,8.58,18.0,21.0,44.55089761612283,-59.517622809021105
+1004,Ragdoll,female,True,seal,bicolor,blue,FALSE,dry,USA,4.0,44.0,3.91,36.0,17.0,44.55089761612283,-59.517622809021105
+1005,Ragdoll,male,True,seal,colorpoint,blue,FALSE,wet,USA,9.67,43.0,9.33,14.0,16.0,44.55089761612283,-59.517622809021105
+1006,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,9.67,38.0,6.37,31.0,19.0,44.55089761612283,-59.517622809021105
+1007,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,9.67,42.0,6.31,16.0,17.0,44.55089761612283,-59.517622809021105
+1008,Ragdoll,male,False,seal,colorpoint,green,FALSE,dry,USA,9.75,47.0,6.0,24.0,17.0,44.55089761612283,-59.517622809021105
+1009,Ragdoll,female,False,seal,mitted,blue,FALSE,wet,USA,4.67,47.0,5.0,8.0,12.0,44.55089761612283,-59.517622809021105
+1010,Ragdoll,female,False,brown/chocolate,tortie,blue,FALSE,wet,USA,5.58,35.0,5.59,11.0,17.0,39.29038,-76.61219
+1011,Ragdoll,male,False,seal,colorpoint,blue,FALSE,wet,USA,9.83,56.0,8.4,18.0,19.0,45.52345,-122.67621
+1012,Ragdoll,male,True,seal,colorpoint,green,FALSE,wet,USA,9.83,45.0,9.08,24.0,17.0,37.77493,-122.41942
+1013,Ragdoll,female,True,lilac,colorpoint,blue,FALSE,wet,USA,9.83,41.0,5.76,19.0,16.0,45.52345,-122.67621
+1014,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,9.83,44.0,6.25,18.0,19.0,42.35843,-71.05977
+1015,Ragdoll,female,True,seal,colorpoint,blue,TRUE,wet,USA,4.67,49.0,4.62,24.0,12.0,47.60621,-122.33207
+1016,Ragdoll,female,True,seal,colorpoint,blue,FALSE,wet,USA,4.67,42.0,3.74,24.0,12.0,41.881832,-87.623177
+1017,Ragdoll,female,True,seal,colorpoint,blue,FALSE,dry,USA,10.83,41.0,6.51,31.0,18.0,40.71427,-74.00597
+1018,Ragdoll,female,True,seal,colorpoint,green,FALSE,dry,USA,9.92,33.0,6.07,4.0,19.0,39.29038,-76.61219
+1019,Ragdoll,female,True,red/cream,bicolor,blue,FALSE,wet,USA,3.08,45.0,4.06,16.0,15.0,38.89511,-77.03637
+1020,Ragdoll,female,True,seal,bicolor,blue,FALSE,wet,USA,10.5,43.0,5.58,0.0,19.0,45.52345,-122.67621
+1021,Ragdoll,male,True,brown/chocolate,colorpoint,blue,FALSE,dry,USA,10.0,48.0,7.59,16.0,16.0,37.77493,-122.41942
+1022,Ragdoll,male,False,seal,colorpoint,blue,FALSE,wet,USA,0.08,11.0,0.6,20.0,21.0,38.89511,-77.03637
+1023,Ragdoll,male,False,seal,colorpoint,blue,FALSE,wet,USA,0.08,12.0,0.8,31.0,20.0,41.881832,-87.623177
+1024,Ragdoll,male,False,seal,colorpoint,blue,FALSE,dry,USA,0.08,11.0,0.7,40.0,19.0,40.71427,-74.00597
+1025,Ragdoll,male,False,seal,colorpoint,blue,FALSE,wet,USA,0.08,12.0,0.9,29.0,20.0,47.60621,-122.33207
+1026,Ragdoll,male,False,seal,colorpoint,blue,FALSE,wet,USA,0.08,12.0,0.6,30.0,22.0,40.71427,-74.00597
+1027,Ragdoll,female,False,seal,colorpoint,blue,FALSE,wet,USA,0.17,14.0,0.9,20.0,18.0,40.71427,-74.00597
+1028,Ragdoll,male,False,red/cream,bicolor,blue,TRUE,dry,USA,0.08,10.0,0.8,26.0,21.0,41.881832,-87.623177
+1029,Ragdoll,female,False,red/cream,bicolor,blue,FALSE,wet,USA,0.17,14.0,1.3,21.0,20.0,40.71427,-74.00597
+1030,Ragdoll,female,False,red/cream,bicolor,blue,FALSE,wet,USA,0.08,11.0,0.9,23.0,21.0,41.881832,-87.623177
+1031,Ragdoll,male,False,red/cream,bicolor,blue,FALSE,dry,USA,0.08,15.0,0.8,34.0,21.0,42.35843,-71.05977
+1032,Ragdoll,female,False,red/cream,tortie,blue,FALSE,wet,USA,0.08,10.0,0.8,39.0,21.0,45.52345,-122.67621
+1033,Ragdoll,female,False,brown/chocolate,colorpoint,blue,FALSE,wet,USA,0.17,14.0,1.1,35.0,18.0,42.35843,-71.05977
+1034,Ragdoll,male,False,brown/chocolate,colorpoint,blue,FALSE,dry,USA,0.08,15.0,0.8,39.0,22.0,37.77493,-122.41942
+1035,Ragdoll,male,False,red/cream,colorpoint,blue,FALSE,wet,USA,0.08,10.0,0.9,31.0,20.0,47.60621,-122.33207
+1036,Ragdoll,female,False,red/cream,colorpoint,blue,FALSE,wet,USA,0.17,13.0,0.8,30.0,18.0,40.71427,-74.00597
+1037,Ragdoll,female,False,red/cream,colorpoint,blue,FALSE,wet,USA,0.08,13.0,0.7,37.0,22.0,39.29038,-76.61219
+1038,Ragdoll,female,False,red/cream,colorpoint,blue,TRUE,wet,USA,0.17,16.0,0.8,34.0,18.0,40.71427,-74.00597
+1039,Ragdoll,female,False,red/cream,tortie,blue,FALSE,dry,USA,0.17,16.0,1.1,31.0,18.0,42.35843,-71.05977
+1040,Ragdoll,male,False,red/cream,bicolor,blue,FALSE,wet,USA,0.17,17.0,1.2,39.0,18.0,41.881832,-87.623177
+1041,Angora,male,False,white,solid,blue,FALSE,wet,USA,0.08,12.0,0.8,36.0,19.0,44.55089761612283,-59.517622809021105
+1042,Ragdoll,female,False,white,solid,blue,FALSE,wet,USA,0.08,13.0,0.8,31.0,20.0,44.55089761612283,-59.517622809021105
+1043,Angora,female,False,white,solid,blue,FALSE,wet,USA,0.17,16.0,0.8,36.0,20.0,44.55089761612283,-59.517622809021105
+1044,Angora,male,False,black,solid,blue,FALSE,dry,USA,0.17,17.0,0.8,40.0,20.0,44.55089761612283,-59.517622809021105
+1045,Angora,male,False,white,solid,green,FALSE,wet,USA,0.17,15.0,1.1,22.0,20.0,44.55089761612283,-59.517622809021105
+1046,Angora,female,False,white,solid,blue,FALSE,wet,USA,0.17,17.0,0.9,38.0,20.0,44.55089761612283,-59.517622809021105
+1047,Ragdoll,female,False,white,solid,blue,FALSE,wet,UK,0.08,15.0,0.7,40.0,22.0,51.507351,-0.127758
+1048,Angora,male,False,black,solid,blue,FALSE,dry,USA,0.17,14.0,0.7,40.0,20.0,40.71427,-74.00597
+1049,Angora,male,False,white,solid,green,FALSE,wet,USA,0.17,15.0,0.8,38.0,20.0,45.52345,-122.67621
+1050,Angora,female,False,white,solid,blue,TRUE,wet,USA,0.08,14.0,0.7,37.0,20.0,40.71427,-74.00597
+1051,Angora,female,False,white,solid,blue,FALSE,wet,Germany,0.17,14.0,0.7,32.0,18.0,50.110924,8.682127
+1052,Angora,female,False,white,solid,green,FALSE,wet,USA,0.17,17.0,0.8,39.0,19.0,37.77493,-122.41942
+1053,Angora,female,False,white,solid,blue,FALSE,dry,USA,0.17,14.0,0.8,24.0,18.0,38.89511,-77.03637
+1054,Angora,male,False,white,solid,blue,FALSE,wet,USA,0.17,16.0,1.2,34.0,19.0,41.881832,-87.623177
+1055,Maine coon,male,False,white,solid,blue,FALSE,wet,USA,0.08,15.0,0.7,25.0,19.0,38.89511,-77.03637
+1056,Maine coon,female,False,brown/chocolate,tabby,green,FALSE,wet,USA,0.08,15.0,0.8,34.0,21.0,40.71427,-74.00597
+1057,Maine coon,female,False,red/cream,tabby,blue,FALSE,wet,USA,0.08,13.0,0.8,30.0,22.0,39.29038,-76.61219
+1058,Maine coon,male,False,black,bicolor,green,FALSE,dry,USA,0.08,15.0,0.8,40.0,21.0,42.35843,-71.05977
+1059,Maine coon,male,False,red/cream,tabby,blue,FALSE,wet,USA,0.17,14.0,1.2,38.0,18.0,40.71427,-74.00597
+1060,Maine coon,female,False,red/cream,tortie,blue,FALSE,wet,USA,0.08,15.0,0.5,22.0,21.0,40.71427,-74.00597
+1061,Maine coon,female,False,brown/chocolate,tabby,green,TRUE,wet,USA,0.08,12.0,0.8,33.0,20.0,40.71427,-74.00597
+1062,Ragdoll,male,False,brown/chocolate,tabby,blue,FALSE,dry,USA,0.08,13.0,0.7,36.0,19.0,38.89511,-77.03637
+1063,Ragdoll,male,False,brown/chocolate,tabby,green,FALSE,wet,UK,0.17,15.0,1.3,21.0,20.0,53.480759,-2.242631
+1064,Ragdoll,female,False,brown/chocolate,tabby,blue,FALSE,wet,UK,0.17,15.0,1.4,23.0,18.0,53.800755,-1.549077
+1065,Ragdoll,female,False,brown/chocolate,solid,green,FALSE,wet,UK,0.17,12.0,0.9,31.0,19.0,53.480759,-2.242631
+1066,Ragdoll,female,False,white,solid,blue,FALSE,wet,UK,0.17,15.0,1.2,35.0,20.0,51.507351,-0.127758
+1067,Maine coon,female,False,black,bicolor,blue,I dont allow her outside. I'm a responsible owner,wet,UK,0.17,17.0,1.0,36.0,19.0,51.507351,-0.127758
+1068,Maine coon,male,False,red/cream,tabby,blue,FALSE,wet,UK,0.17,14.0,0.7,20.0,20.0,51.507351,-0.127758
+1069,Maine coon,male,False,red/cream,tabby,green,FALSE,wet,UK,0.17,16.0,1.1,34.0,19.0,52.486244,-1.890401
+1070,Maine coon,female,False,red/cream,solid,blue,FALSE,wet,UK,0.17,15.0,1.1,39.0,20.0,51.507351,-0.127758
+1071,Angora,male,True,white,solid,amber,FALSE,wet,France,2.25,25.0,3.1,39.0,16.0,47.218371,-1.553621
+1072,Angora,male,True,white,solid,amber,FALSE,wet,Vive la France!,2.25,38.0,5.3,39.0,14.0,48.864716,2.349014
+1073,Angora,female,False,red/cream,solid,blue,FALSE,dry,France,2.33,36.0,4.0,19.0,14.0,47.218371,-1.553621
+1074,Angora,female,False,white,dirty,blue,FALSE,wet,France,2.33,36.0,2.4,19.0,16.0,45.76342,4.834277
+1075,Angora,male,True,white,solid,blue,FALSE,wet,France,2.33,39.0,3.9,34.0,14.0,45.76342,4.834277
+1076,Angora,female,True,red/cream,solid,blue,FALSE,wet,France,2.67,38.0,3.9,37.0,14.0,44.837789,-0.57918
+1077,Angora,male,False,black,solid,blue,FALSE,dry,France,2.67,40.0,4.0,30.0,14.0,43.296482,5.36978
+1078,Angora,female,True,black,solid,green,TRUE,dry,France,2.67,34.0,3.9,21.0,14.0,45.76342,4.834277
+1079,Angora,female,True,white,solid,green,TRUE,wet,France,2.92,34.0,4.1,28.0,14.0,43.296482,5.36978
+1080,Angora,female,True,white,solid,amber,FALSE,wet,France,2.92,32.0,2.5,33.0,14.0,48.864716,2.349014
+1081,Angora,male,True,white,solid,amber,FALSE,wet,USA,2.92,41.0,3.8,21.0,14.0,40.71427,-74.00597
+1082,Angora,male,False,white,solid,blue,FALSE,wet,USA,2.92,39.0,4.1,28.0,14.0,40.71427,-74.00597
+1083,Angora,male,True,white,solid,green,FALSE,dry,USA,3.0,39.0,4.4,16.0,15.0,40.71427,-74.00597
+1084,Angora,male,False,white,solid,blue,FALSE,wet,USA,3.0,39.0,4.8,44.0,14.0,37.77493,-122.41942
+1085,Angora,male,True,red/cream,tabby,blue,FALSE,dry,USA,3.08,39.0,5.1,25.0,16.0,47.60621,-122.33207
+1086,Ankora,male,True,black,solid,green,TRUE,wet,USA,3.08,38.0,3.7,25.0,14.0,47.60621,-122.33207
+1087,Ankora,male,True,white,solid,blue,FALSE,dry,France,3.08,40.0,5.3,11.0,14.0,44.837789,-0.57918
+1088,Ankora,female,False,white,solid,amber,FALSE,wet,USA,3.17,36.0,4.0,11.0,14.0,40.71427,-74.00597
+1089,Angora,male,False,black,bicolor,blue,FALSE,wet,USA,3.25,40.0,4.5,12.0,16.0,47.60621,-122.33207
+1090,Angora,male,True,white,solid,amber,FALSE,dry,USA,3.42,41.0,4.4,24.0,17.0,45.52345,-122.67621
+1091,Angora,male,True,black,solid,blue,FALSE,wet,USA,3.5,39.0,4.8,15.0,16.0,45.52345,-122.67621
+1092,Angora,female,True,white,solid,blue,FALSE,wet,USA,3.58,34.0,3.3,20.0,14.0,41.881832,-87.623177
+1093,Angora,male,False,white,solid,amber,FALSE,wet,USA,3.67,39.0,4.5,23.0,14.0,47.60621,-122.33207
+1094,Angora,male,False,white,solid,amber,FALSE,wet,France,3.67,37.0,4.6,32.0,14.0,43.61166,3.87771
+1095,Angora,male,True,white,solid,blue,FALSE,wet,USA,3.75,43.0,3.9,38.0,14.0,39.29038,-76.61219
+1096,Angora,male,False,white,solid,green,FALSE,wet,USA,3.83,37.0,4.1,38.0,16.0,38.89511,-77.03637
+1097,Angora,male,True,black,bicolor,amber,TRUE,wet,USA,3.83,40.0,4.8,11.0,15.0,40.71427,-74.00597
+1098,Angora,female,True,white,solid,amber,TRUE,dry,USA,4.17,35.0,2.8,28.0,14.0,45.52345,-122.67621
+1099,Angora,male,True,white,solid,amber,FALSE,dry,France,-4.25,37.0,4.6,36.0,14.0,45.76342,4.834277
+1100,Angora,female,True,white,solid,cute,FALSE,wet,USA,-4.333333333,34.0,4.3,37.0,16.0,42.35843,-71.05977
+1101,Angora,female,True,black,solid,amber,FALSE,wet,USA,-4.333333333,35.0,3.8,30.0,14.0,45.52345,-122.67621
+1102,Angora,female,True,white,solid,blue,FALSE,wet,USA,-4.333333333,32.0,2.4,40.0,14.0,47.60621,-122.33207
